@@ -8,19 +8,30 @@ The application combines nine fictional spirit dossiers, five synthetic househol
 
 This is BellaBaelfire's personal project. Every spirit, household, case, quotation, and historical excerpt belongs to the story. The application does not offer paranormal contact or a real housing service.
 
+## Choose your visit
+
+| Quick demo | Deep dive |
+| --- | --- |
+| [Watch the short walkthrough](docs/demo/hearthafter-walkthrough.webm) | [Follow the interactive route](https://hearthafter.homes/about#deep-dive) |
+| See a firm camera boundary, a separate quiet-hours agreement, the verified source-change example and a family review. | Explore the actual linked registry and reproduce the matching and consent decisions in your browser. |
+
+No login is needed for either public route. Published source records come from Sanity; visitor answers and cases stay in the browser. The video shows the public interface and describes an earlier verified authenticated test. It does not show a live staff edit.
+
+[Written walkthrough and screenshots](docs/deep-dive.md)
+
 ## Current delivery status
 
 [Open the live application](https://hearthafter.homes). The guest journey requires no login. The staff placement desk uses Sanity sign-in and project administrator permissions.
 
 The final candidate contains **nine spirits, five homes and 56 source documents**, plus one artwork singleton, for **57 application content documents**. The three native image-asset documents are counted separately. The full fixture manifest is [docs/seed-manifest.json](docs/seed-manifest.json); the nineteen additive family and household records are listed in [docs/additional-fixtures-manifest.json](docs/additional-fixtures-manifest.json). The six original profiles and portrait atlas are preserved. Kit has an original code-authored child illustration.
 
-The checked-in Worker maps both `hearthafter.homes` and `www.hearthafter.homes`. Read requests to the www alias redirect to the canonical HTTPS apex while preserving their path and query. Workers.dev and version-preview routing are disabled. Final unit, browser, build and hosted-readback results belong to the release verification report; earlier run totals are not a substitute for checking this candidate. A public source repository has not been published yet.
+The checked-in Worker maps both `hearthafter.homes` and `www.hearthafter.homes`. Read requests to the www alias redirect to the canonical HTTPS apex while preserving their path and query. Workers.dev and version-preview routing are disabled. Final unit, browser, build and hosted-readback results belong to the release verification report; earlier run totals are not a substitute for checking this candidate. The reviewed source is public at [bellabaelfire/hearthafter](https://github.com/bellabaelfire/hearthafter).
 
 ## Preview
 
 ![Hearthafter: the Office service homepage with a welcoming porch illustration.](docs/demo/home-desktop.png)
 
-[Watch the civic newsreel](docs/demo/hearthafter-newsreel.webm) · [Open the one-page placement record](docs/demo/placement-record.pdf) · [Explore the linked registry](docs/demo/registry-explorer.png)
+[Watch the walkthrough](docs/demo/hearthafter-walkthrough.webm) | [See the family decisions](docs/demo/family-consents.png) | [Explore the linked registry](https://hearthafter.homes/about#behind-the-service)
 
 The gallery contains recorded examples of the public experience. Use the live application to inspect the current register, matching explanations and in-app introduction.
 
