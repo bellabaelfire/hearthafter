@@ -1,0 +1,35 @@
+node_modules/
+.next/
+.cache/
+.tmp/
+.env*
+!.env.example
+playwright-report/
+test-results/
+*.tsbuildinfo
+.DS_Store
+
+# Private build notes; publication requires user approval.
+/BUILD_LOG.md
+
+/.archive/
+/CHECKPOINT.md
+# Private references, supplied archives, and review-only materials.
+/creative-inputs/
+/references/
+/AGENTS.md
+/CLAUDE.md
+/docs/dev-submission.draft.md
+/docs/publication-review.md
+/docs/publish-proposal.md
+
+# Private verification and publication-review records.
+/docs/live-verification.json
+/docs/live-api-verification.json
+/docs/change-impact-verification.json
+/docs/publication-manifest.md
+/docs/verification-ledger.md
+
+# Generated Cloudflare artifacts and local runtime state.
+.open-next/
+.wrangler/

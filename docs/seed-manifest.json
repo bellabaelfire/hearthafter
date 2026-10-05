@@ -1,0 +1,3051 @@
+[
+  {
+    "id": "spirit_iona_vale",
+    "name": "Iona Vale",
+    "pronouns": "she/her",
+    "ageAtPassing": 67,
+    "era": "1826-1893",
+    "lifespan": "1826-1893",
+    "origin": "Hudson, New York",
+    "formerOccupation": "Clock repairer and small-shop proprietor",
+    "portrait": "scholar",
+    "tagline": "The early riser",
+    "quote": "I can mend a clock. That does not oblige either of us to spend our evening on it.",
+    "tags": [
+      "Morning company",
+      "Gentle routines",
+      "A room with daylight"
+    ],
+    "summary": "A clock repairer who would like to stop being useful for a living. Iona enjoys the first cup of tea, exact arrangements and people who can leave a small mistake alone.",
+    "biography": "Iona rented a narrow repair shop in Hudson, New York, between a cooper and a seller of household candles. Her sign said VALE REPAIRS, although several customers persisted in addressing their bills to an imaginary Mr. Vale. She repaired carriage clocks, kitchen clocks and one expensive astronomical clock that she later called a very handsome way of being late. Her younger sister, Bess, kept a flower stall near the river. Iona maintained that Bess had no head for figures; the account book shows Bess repeatedly extending her credit.\n\nShe shared her home for thirty-one years with Nell Dacre, a bookbinder. Iona calls Nell her companion and does not offer a more precise label to satisfy an intake form. Their ordinary quarrels concerned window drafts, cut flowers and whether a chair could be improved by never sitting in it. Iona does not want a household to recreate that relationship. She would like to know the people who are actually there.\n\nDuring the Overlap, Iona was first noticed in a room that no longer contained a clock. Being visible again has made her less certain that a home must be earned through work. She still offers repairs too quickly, then resents being taken at her word. Her review officer has asked her to practice saying, “I would rather sit down.” She says the exercise is going adequately.",
+    "rememberedObjects": [
+      "A brass winding key is comforting, but neither necessary to her presence nor owned by the service. She prefers a contemporary key-shaped token to an expensive antique. Morning light on a wooden table matters more than a period room. She has no wish to sleep in a museum of her lifetime."
+    ],
+    "quirks": [
+      "I notice a clock that is wrong. I can refrain from changing it. Those are separate accomplishments.",
+      "An ordinary evening: Someone reading in the room, someone washing up, nobody required to perform gratitude. I can manage a perfectly good evening without being asked what death is like."
+    ],
+    "contradictions": [
+      "Her reputation was for punctuality. Bess's letters describe a sister who was late whenever conversation became interesting. Iona concedes this without conceding that the two facts conflict."
+    ],
+    "currentWants": [
+      "A household that tells her the day's rough shape, leaves her free to decline a project and occasionally asks a question without already knowing the answer. She would enjoy learning what a dishwasher sounds like from a comfortable distance.",
+      "A welcome question: Would you like company, or would you like quiet?",
+      "Please do not ask: Whether Nell is available as well. She is not part of my application.",
+      "A good first meeting: Twenty minutes in the future shared room, with the household's clock left exactly as it is",
+      "A promising trial would mean: She has declined a repair request once and the household has accepted it easily",
+      "A way to pause: A card reading QUIET NOW, placed by her seat",
+      "Leaving well: Daytime transition with her brass token carried separately and returned to her; no overnight uncertainty about the next address",
+      "Where to next: Prefers the Northeast or Mid-Atlantic, where river towns and seasons feel familiar. Open to Richmond, Virginia, if the new home has a predictable daylight routine. No requirement to acquire or imitate her former shop.",
+      "An introduction and a move are separate decisions."
+    ],
+    "historyIds": [
+      "history_iona_vale"
+    ],
+    "traitIds": [
+      "trait_precision"
+    ],
+    "boundaryIds": [
+      "boundary_iona_vale_no_required_domestic_labor",
+      "boundary_iona_vale_predictable_quiet_plan"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_spirit_iona_vale_ordinary_company",
+        "label": "An ordinary evening, in their own words",
+        "detail": "Someone reading in the room, someone washing up, nobody required to perform gratitude. I can manage a perfectly good evening without being asked what death is like.",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_spirit_iona_vale_welcome",
+        "label": "Company that feels comfortable",
+        "detail": "Can state a preference directly\n\nEnjoys making things without turning it into an obligation\n\nDoes not confuse precision with moral superiority",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "fact_spirit_iona_vale_friction",
+        "label": "Habits that make sharing harder",
+        "detail": "Moves her token as a joke\n\nChanges agreed plans without telling her\n\nFrames hosting as repayment for useful labor",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "fact_spirit_iona_vale_rhythm",
+        "label": "A preferred rhythm",
+        "detail": "Early and predictable\n\nLow to medium; likes parallel activity",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "fact_spirit_iona_vale_manifestation_1",
+        "label": "Audible presence",
+        "detail": "A quiet chair creak or one deliberate knock, only as an agreed contact signal",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "fact_spirit_iona_vale_manifestation_2",
+        "label": "Small object movement",
+        "detail": "Can turn her own labeled brass token in the shared room; other objects remain untouched",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "fact_spirit_iona_vale_introduction",
+        "label": "An introduction is still ahead",
+        "detail": "Interested in an introduction; no placement consent yet\n\nReview complete; introduction pending\n\nNo household assignment accepted\n\nMay refuse this match, request interim accommodation or appeal the review.",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-6"
+      },
+      {
+        "id": "fact_spirit_iona_vale_region",
+        "label": "A place they could choose",
+        "detail": "Hudson, New York\n\nPrefers the Northeast or Mid-Atlantic, where river towns and seasons feel familiar. Open to Richmond, Virginia, if the new home has a predictable daylight routine. No requirement to acquire or imitate her former shop.\n\nAn introduction and a move are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-7"
+      }
+    ],
+    "energy": "quiet",
+    "company": "low",
+    "presence": "day",
+    "interests": [
+      "tea",
+      "books"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "audibleHours": {
+      "start": 6.5,
+      "end": 10
+    },
+    "preferredHours": [
+      {
+        "start": 6.5,
+        "end": 10,
+        "_key": "entry-0"
+      },
+      {
+        "start": 19,
+        "end": 20.5,
+        "_key": "entry-1"
+      }
+    ],
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "homeNeeds": [
+      "A settled, low-noise home with a sunlit shared room and an ordinary place at the table",
+      "A daylight seat in an agreed common room; does not need exclusive ownership of a room",
+      "No household may make repairs, cleaning, childcare, monitoring or entertaining a condition of her stay",
+      "The household must agree to written quiet hours and a way to communicate schedule changes",
+      "No clock, appliance or timer adjustments without specific permission",
+      "No manifestation in bedrooms",
+      "No waking a household member to begin the day",
+      "Pets: Open to a calm animal; requires an observed introduction and a retreat route for the animal"
+    ],
+    "negotiablePreferences": [
+      {
+        "id": "morning_start",
+        "preference": "Company from 06:30",
+        "possibleAgreement": "Remain entirely quiet until the household's agreed waking time; morning company twice weekly is sufficient",
+        "_key": "entry-0"
+      }
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_iona_vale_mechanical_sounds",
+        "question": "Has everyone confirmed a comfortable sound arrangement, including silence if preferred?",
+        "whyItMatters": "Confirm that everyone is comfortable with the agreed sound, including silence if preferred. Iona has not promised a ticking manifestation.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_spirit_iona_vale_regional_move",
+        "question": "Has Iona agreed to this destination and the travel plan?",
+        "whyItMatters": "Meeting a household and choosing a move are separate decisions. Confirm the destination, regional preferences and arrangements for leaving together.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_iona_vale",
+          "history:history_iona_vale"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_iona_vale",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_precision",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_iona_vale_no_required_domestic_labor",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_iona_vale_predictable_quiet_plan",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-spirit-spirit_iona_vale",
+    "_type": "hearthSpirit"
+  },
+  {
+    "id": "spirit_orin_pell",
+    "name": "Orin Pell",
+    "pronouns": "he/him",
+    "ageAtPassing": 77,
+    "era": "1904-1981",
+    "lifespan": "1904-1981",
+    "origin": "Oakland, California",
+    "formerOccupation": "Cinema projectionist and occasional sign painter",
+    "portrait": "musician",
+    "tagline": "The late show",
+    "quote": "You may fall asleep. I never took that personally at the cinema either.",
+    "tags": [
+      "Evening companion",
+      "No recording",
+      "Loves a bad film"
+    ],
+    "summary": "A former projectionist who likes quiet company after the dishes are done. Orin brings a fondness for imperfect films, carefully directed lamplight and endings that do not explain everything.",
+    "biography": "Orin began at the Starling Picture House in Oakland carrying supplies and ended his working life knowing every place the building leaked. He trained three projectionists and maintained that none had ever threaded a projector correctly in his presence. Their letters suggest they were all capable of doing so when he left the booth. He painted signs during lean months, including a celebrated OPEN DAILY notice for a shop that was open on alternate Thursdays.\n\nHis wife, Mina, worked in a bicycle shop and disliked most films. They still ate supper together before he left for work. His closest surviving story is about Ada, his adult niece, who brought him films he considered incomprehensible and kept returning until he found something to admire. He would welcome disagreement from a new household. He does not want a polite audience that says every old thing was better.\n\nBefore the Overlap, Orin could sometimes perceive the shape of the old projection booth but not the people in the room that replaced it. Now people can see him. Being visible is an adjustment; being recorded is a limit. He has firmly refused an applicant who wanted to make a channel about their resident ghost. His answer was brief and has not changed.",
+    "rememberedObjects": [
+      "A rectangle of light on a plain wall is enough for Orin. No moving picture appears inside it; he still needs somebody to put the film on. His old ticket stub can remain in its envelope. He prefers a comfortable modern sofa to cinema seating and has no intention of asking a new household to buy a projector."
+    ],
+    "quirks": [
+      "I talk during the credits. Apparently this is still during the film for some people. State your position before we begin.",
+      "An ordinary evening: A film we chose together. Or no film, if choosing it has already taken the evening. That happens."
+    ],
+    "contradictions": [
+      "Orin insists he never cried at a film. The booth notebook includes instructions to leave a handkerchief near reel four of a particular melodrama. He says this was a technical precaution and declines to specify the fault."
+    ],
+    "currentWants": [
+      "A regular evening in which somebody might put on a film, ask what he thought and survive the answer. He is also interested in the small domestic miracle of pausing a story to make tea.",
+      "A welcome question: Does that light bother you?",
+      "Please do not ask: For proof, for the camera, just this once.",
+      "A good first meeting: A short seated conversation with all cameras off and a household-controlled lamp; no manifestation is required",
+      "A promising trial would mean: Both a companionable evening and a comfortable declined invitation have happened",
+      "A way to pause: Turn over the shared-room card from OPEN to CLOSED",
+      "Leaving well: A confirmed camera-free waiting room and a written next address before the current stay ends",
+      "Where to next: Open to another U.S. region for a genuinely camera-free home. A move from Oakland to Richmond must be separately discussed and consented to; good social compatibility does not silently authorize a cross-country relocation.",
+      "An introduction and a move are separate decisions."
+    ],
+    "historyIds": [
+      "history_orin_pell"
+    ],
+    "traitIds": [
+      "trait_imperfect_endings"
+    ],
+    "boundaryIds": [
+      "boundary_orin_pell_camera_free_presence",
+      "boundary_orin_pell_no_exhibition"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_spirit_orin_pell_ordinary_company",
+        "label": "An ordinary evening, in their own words",
+        "detail": "A film we chose together. Or no film, if choosing it has already taken the evening. That happens.",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_spirit_orin_pell_welcome",
+        "label": "Company that feels comfortable",
+        "detail": "Likes shared silence\n\nCan disagree about art without making it a contest\n\nHas a different daily rhythm but keeps shared agreements",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "fact_spirit_orin_pell_friction",
+        "label": "Habits that make sharing harder",
+        "detail": "Treats visibility as consent to record\n\nProjects images without permission\n\nNeeds every evening to be a party",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "fact_spirit_orin_pell_rhythm",
+        "label": "A preferred rhythm",
+        "detail": "Late, with advance notice\n\nLow; sustained one-to-one company",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "fact_spirit_orin_pell_manifestation_1",
+        "label": "Soft light",
+        "detail": "A dim, unmoving rectangle on one agreed wall; no flicker, flashing, electrical control or content recorded from people's lives",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "fact_spirit_orin_pell_manifestation_2",
+        "label": "Audible presence",
+        "detail": "Ordinary conversation at the volume agreed for the room",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "fact_spirit_orin_pell_introduction",
+        "label": "An introduction is still ahead",
+        "detail": "Interested in an introduction; recording check and light question outstanding\n\nReview complete; introduction pending\n\nNo household assignment accepted\n\nMay refuse this match, request interim accommodation or appeal the review.",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-6"
+      },
+      {
+        "id": "fact_spirit_orin_pell_region",
+        "label": "A place they could choose",
+        "detail": "Oakland, California\n\nOpen to another U.S. region for a genuinely camera-free home. A move from Oakland to Richmond must be separately discussed and consented to; good social compatibility does not silently authorize a cross-country relocation.\n\nAn introduction and a move are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-7"
+      }
+    ],
+    "energy": "quiet",
+    "company": "low",
+    "presence": "night",
+    "interests": [
+      "films",
+      "stories"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "audibleHours": {
+      "start": 20.5,
+      "end": 23.5
+    },
+    "preferredHours": [
+      {
+        "start": 20.5,
+        "end": 23.5,
+        "_key": "entry-0"
+      }
+    ],
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "homeNeeds": [
+      "A camera-free shared room with controllable light and somebody willing to sit without filling every silence",
+      "A common room with one blank wall and no recording devices active or pointed into it",
+      "No cameras, video doorbells with interior sightlines, live streams or audio recording in his agreed manifestation area",
+      "No admission fees, promotional appearances, content obligations or demonstrations for visitors",
+      "No light under bedroom doors",
+      "No manifestation on screens or electrical devices",
+      "Quiet hours may end his preferred evening window",
+      "Pets: No assumption; a pet must be able to leave the room and remain unfilmed during introductions"
+    ],
+    "negotiablePreferences": [
+      {
+        "id": "evening_end",
+        "preference": "Company until 23:30",
+        "possibleAgreement": "Two planned film evenings weekly, both ending by 22:00; no implication that later light is silently allowed",
+        "_key": "entry-0"
+      }
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_orin_pell_soft_light_tolerance",
+        "question": "Has every resident confirmed that the agreed low light is comfortable and fully contained in its room?",
+        "whyItMatters": "Check the proposed brightness with each resident, and make sure the light stays within the agreed room.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_spirit_orin_pell_regional_move",
+        "question": "Has Orin agreed to this destination and the travel plan?",
+        "whyItMatters": "Meeting a household and choosing a move are separate decisions. Confirm the destination, regional preferences and arrangements for leaving together.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_orin_pell",
+          "history:history_orin_pell"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_orin_pell",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_imperfect_endings",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_orin_pell_camera_free_presence",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_orin_pell_no_exhibition",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-spirit-spirit_orin_pell",
+    "_type": "hearthSpirit"
+  },
+  {
+    "id": "spirit_cress_morrow",
+    "name": "Cressida “Cress” Morrow",
+    "pronouns": "she/her",
+    "ageAtPassing": 77,
+    "era": "1868-1945",
+    "lifespan": "1868-1945",
+    "origin": "St. Louis, Missouri",
+    "formerOccupation": "Supper-room proprietor",
+    "portrait": "hostess",
+    "tagline": "Another place at the table",
+    "quote": "You do not have to feed me. You do have to tell me if Tuesday is canceled.",
+    "tags": [
+      "Shared dinners",
+      "Direct and affectionate",
+      "Not your cook"
+    ],
+    "summary": "Cress spent forty years making room for one more person. She would like a lively table, an honest answer and, for once, somebody else to decide what is for dinner.",
+    "biography": "Cress rented two rooms near a freight rail yard in St. Louis and served suppers to people whose shifts ended after other kitchens closed. Her supper room began with three mismatched tables and a menu that was mostly the same meal described optimistically. It became known for a rule written on the back of the menu: nobody owed the room a cheerful face. She offered company without requiring a story in exchange.\n\nHer husband, Ewan, kept the books until she discovered that his notion of rounding favored nearly every customer. Their adult son, Len, became a very private person and ate in the kitchen when the public room was crowded. Cress originally treated this as a problem to solve. She now describes it as a preference she took too long to respect. She hopes a quieter spirit might find her easier company than Len sometimes did.\n\nWhen the Overlap made her visible, Cress was found standing beside a loading bay where her dining room had once been. Her first residential introduction went badly when a household described her as a resident grandmother before meeting her. She likes younger adults and can be affectionate. Neither quality makes her a replacement relative. She would prefer to begin with names and learn what relationship follows.",
+    "rememberedObjects": [
+      "She keeps a smooth wooden menu board with nothing written on it. If invited, she can tap it once to signal that she has arrived. She does not handle food, change temperatures or create smells in a home. She likes contemporary kitchens because the chairs are usually better."
+    ],
+    "quirks": [
+      "I offer advice before people have asked for it. 'Company, please, not advice' is an acceptable correction. I am practicing accepting it the first time.",
+      "An ordinary evening: A full table with one empty chair that nobody has to explain. The food can be toast. I am serious about the company, not the menu."
+    ],
+    "contradictions": [
+      "She says she never kept a recipe. A notebook contains exact proportions, repeated three times, for a cake she claims not to remember making. She may be protecting the recipe, the memory or simply her right not to answer."
+    ],
+    "currentWants": [
+      "Three shared evenings most weeks, a little good-natured disagreement and the ability to get up from the table before anyone else. She is interested in how people choose to live together when family is a thing they build.",
+      "A welcome question: Would you like to join us?",
+      "Please do not ask: If I will watch the house, teach your friends a lesson or bring somebody back.",
+      "A good first meeting: An ordinary meal with a short introduction and no special menu or performance",
+      "A promising trial would mean: Someone has declined dinner without being pressed, and the remaining company has still had a pleasant evening",
+      "A way to pause: A blue place card means 'No advice or conversation for now'",
+      "Leaving well: A departure date stated directly, a goodbye offered rather than required, and a next place with an established communal meal",
+      "Where to next: Prefers a city with an established communal routine over a specific climate. Chicago is an acceptable region to explore, subject to her own introduction and consent; proximity to old railway places is comforting, not required.",
+      "An introduction and a move are separate decisions."
+    ],
+    "historyIds": [
+      "history_cress_morrow"
+    ],
+    "traitIds": [
+      "trait_warm_directness"
+    ],
+    "boundaryIds": [
+      "boundary_cress_morrow_three_shared_evenings",
+      "boundary_cress_morrow_no_surrogate_role"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_spirit_cress_morrow_ordinary_company",
+        "label": "An ordinary evening, in their own words",
+        "detail": "A full table with one empty chair that nobody has to explain. The food can be toast. I am serious about the company, not the menu.",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_spirit_cress_morrow_welcome",
+        "label": "Company that feels comfortable",
+        "detail": "Sets boundaries in plain language\n\nEnjoys hearing several points of view\n\nCan leave a room without apologizing",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "fact_spirit_cress_morrow_friction",
+        "label": "Habits that make sharing harder",
+        "detail": "Requires silence through every evening\n\nExpects her to mediate arguments\n\nAccepts invitations out of obligation and later feels trapped",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "fact_spirit_cress_morrow_rhythm",
+        "label": "A preferred rhythm",
+        "detail": "Meal-centered and planned\n\nMedium to high, with permission to leave",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "fact_spirit_cress_morrow_manifestation_1",
+        "label": "Audible presence",
+        "detail": "Conversation and one knock on her own menu board as an arrival signal",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "fact_spirit_cress_morrow_introduction",
+        "label": "An introduction is still ahead",
+        "detail": "Interested in a shared dinner introduction; no commitment to provide any service\n\nReview complete; introduction pending\n\nNo household assignment accepted\n\nMay refuse this match, request interim accommodation or appeal the review.",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "fact_spirit_cress_morrow_region",
+        "label": "A place they could choose",
+        "detail": "St. Louis, Missouri\n\nPrefers a city with an established communal routine over a specific climate. Chicago is an acceptable region to explore, subject to her own introduction and consent; proximity to old railway places is comforting, not required.\n\nAn introduction and a move are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-6"
+      }
+    ],
+    "energy": "lively",
+    "company": "high",
+    "presence": "day",
+    "interests": [
+      "shared meals",
+      "stories",
+      "cooking"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "audibleHours": {
+      "start": 17.5,
+      "end": 21.5
+    },
+    "preferredHours": [
+      {
+        "start": 17.5,
+        "end": 21.5,
+        "_key": "entry-0"
+      }
+    ],
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "homeNeeds": [
+      "A sociable adult household that already eats together and can make welcome feel ordinary",
+      "A place in an existing shared dining routine; no period dining room required",
+      "An honestly sustainable plan for at least three shared evening meals or equivalent evening gatherings per week; attendance is invited, never compulsory",
+      "No expectation that she replace a family member or provide cooking, care, supervision or emotional support on demand",
+      "No comments on bodies, food portions or someone's decision not to eat",
+      "No pursuing a person who leaves the table",
+      "No food, heat, scent or appliance interference",
+      "Pets: Comfortable in principle with adult cats and dogs; no feeding, summoning or touching animals without separate agreement"
+    ],
+    "negotiablePreferences": [
+      {
+        "id": "guest_frequency",
+        "preference": "Occasional new adult faces",
+        "possibleAgreement": "One introduced guest at a time during the trial, with every housemate free to decline interaction",
+        "_key": "entry-0"
+      }
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_cress_morrow_weekly_routine_realism",
+        "question": "Has the household confirmed that three shared evenings are already sustainable and freely wanted?",
+        "whyItMatters": "Cress wants company the household already enjoys. Three shared evenings should fit ordinary life without becoming an obligation.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_spirit_cress_morrow_regional_move",
+        "question": "Has Cress agreed to this destination and the travel plan?",
+        "whyItMatters": "Meeting a household and choosing a move are separate decisions. Confirm the destination, regional preferences and arrangements for leaving together.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_cress_morrow",
+          "history:history_cress_morrow"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_cress_morrow",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_warm_directness",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_cress_morrow_three_shared_evenings",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_cress_morrow_no_surrogate_role",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-spirit-spirit_cress_morrow",
+    "_type": "hearthSpirit"
+  },
+  {
+    "id": "spirit_tavi_mercer",
+    "name": "Tavi Mercer",
+    "pronouns": "they/them",
+    "ageAtPassing": 85,
+    "era": "1911-1996",
+    "lifespan": "1911-1996",
+    "origin": "New Orleans, Louisiana",
+    "formerOccupation": "Dressmaker and theater alterations specialist",
+    "portrait": "artist",
+    "tagline": "Room to be yourself",
+    "quote": "A good fit leaves room to move. This applies to arrangements as well as coats.",
+    "tags": [
+      "Creative company",
+      "Privacy matters",
+      "Sociable on purpose"
+    ],
+    "summary": "A meticulous dressmaker with a weakness for loud company at a safe distance. Tavi likes a lively room, a small retreat and people who understand that a closed curtain is an answer.",
+    "biography": "Tavi made wedding clothes, work clothes and stage clothes in a second-floor workroom above a furniture shop in New Orleans. Their order book is a history of practical ambitions: a pocket deep enough for spectacles, a waistcoat made to fit a seated body, an evening dress requested with sleeves the customer could actually raise. They liked a dramatic entrance. They liked a customer who could breathe more.\n\nTheir closest friend, Jo Fen, played small theater parts and mended shoes between jobs. They disagreed constantly about whether a costume ought to be convincing from the back row or pleasant from the inside. Tavi's adult nephew, Rafi, later shared the workshop and introduced patterns they considered wasteful until they quietly adopted several. They enjoy intergenerational company but do not want to be introduced as a lesson in tolerance.\n\nThe Overlap made Tavi visible in an empty upstairs room; it did not restore their workshop or give its new occupants permission to photograph them. They have spent enough of both life and afterlife being mistaken for part of a room. They now ask to be introduced to invited guests if they plan to join them, and left entirely alone if they do not. Being discreet is a preference; being concealed for another person’s comfort is not.",
+    "rememberedObjects": [
+      "A square of blue cloth marks their resting place. It can be new, inexpensive and washable. They can make the folded edge rise a little as an agreed signal, but will not alter a person's clothes or touch fabric someone is wearing. Their ideal alcove might be a screened corner rather than a spare bedroom."
+    ],
+    "quirks": [
+      "I can tell when a seam is poor. You are free not to care. Please do not ask for an honest opinion when you mean applause.",
+      "An ordinary evening: Something loud happening in the kitchen that I can join, followed by somewhere quiet I do not have to earn."
+    ],
+    "contradictions": [],
+    "currentWants": [
+      "Music chosen by somebody else, the occasional opinion about a hem and a housemate who can sit down in the middle of an unfinished thing. They would like to try making something deliberately impractical, provided nobody turns that into a productivity goal.",
+      "A welcome question: Would you like to be introduced, or would you rather sit this one out?",
+      "Please do not ask: What my old paperwork says I was.",
+      "A good first meeting: See the shared room and proposed retreat before meeting any optional visitors",
+      "A promising trial would mean: They have used the retreat during a social evening without anyone following them or explaining their absence",
+      "A way to pause: Blue cloth folded inward means no contact until Tavi initiates it",
+      "Leaving well: Pack the cloth and any voluntarily made work together; no host may keep an object as leverage for a longer stay",
+      "Where to next: Open to Chicago because of its creative household rather than because they want a historical reconstruction. Would like a winter-season check-in and a quiet indoor retreat before agreeing to a longer stay in a colder region.",
+      "An introduction and a move are separate decisions."
+    ],
+    "historyIds": [
+      "history_tavi_mercer"
+    ],
+    "traitIds": [
+      "trait_deliberate_sociability"
+    ],
+    "boundaryIds": [
+      "boundary_tavi_mercer_protected_retreat",
+      "boundary_tavi_mercer_identity_respected"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_spirit_tavi_mercer_ordinary_company",
+        "label": "An ordinary evening, in their own words",
+        "detail": "Something loud happening in the kitchen that I can join, followed by somewhere quiet I do not have to earn.",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_welcome",
+        "label": "Company that feels comfortable",
+        "detail": "Can be outgoing without demanding participation\n\nTreats a boundary as ordinary\n\nEnjoys craft without expecting free commissions",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_friction",
+        "label": "Habits that make sharing harder",
+        "detail": "Moves the privacy screen to be helpful\n\nTreats an invitation as an obligation\n\nTurns another person's history into public material",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_rhythm",
+        "label": "A preferred rhythm",
+        "detail": "Flexible creative evenings with a protected retreat\n\nMedium, opt-in",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_manifestation_1",
+        "label": "Small object movement",
+        "detail": "May lift the edge of their own marked blue cloth as a contact signal",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_manifestation_2",
+        "label": "Audible presence",
+        "detail": "Conversation in agreed common rooms; never from a closed private space",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_introduction",
+        "label": "An introduction is still ahead",
+        "detail": "Open to a trial after the retreat is shown and its rules are agreed\n\nReview complete; introduction pending\n\nNo household assignment accepted\n\nMay refuse this match, request interim accommodation or appeal the review.",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-6"
+      },
+      {
+        "id": "fact_spirit_tavi_mercer_region",
+        "label": "A place they could choose",
+        "detail": "New Orleans, Louisiana\n\nOpen to Chicago because of its creative household rather than because they want a historical reconstruction. Would like a winter-season check-in and a quiet indoor retreat before agreeing to a longer stay in a colder region.\n\nAn introduction and a move are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-7"
+      }
+    ],
+    "energy": "lively",
+    "company": "medium",
+    "presence": "both",
+    "interests": [
+      "craft",
+      "stories"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "audibleHours": {
+      "start": 20,
+      "end": 0
+    },
+    "preferredHours": [
+      {
+        "start": 16,
+        "end": 18,
+        "_key": "entry-0"
+      },
+      {
+        "start": 20,
+        "end": 0,
+        "_key": "entry-1"
+      }
+    ],
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "homeNeeds": [
+      "An adult household with clear room boundaries, a small private alcove and informal creative evenings",
+      "A small screened alcove or equivalent private retreat that all residents agree not to enter; no locking, trapping or ownership mechanics",
+      "A real private retreat must exist before the trial, with its boundary understood by guests and residents",
+      "Use their stated name and pronouns; no demands for explanations, archival exposure or a secret identity for visitors",
+      "No touching people or clothing being worn",
+      "No entering bedrooms or occupied bathrooms",
+      "No borrowed materials without asking",
+      "Pets: No loose thread or small materials accessible to animals; introduction needed before a pet shares the retreat area"
+    ],
+    "negotiablePreferences": [
+      {
+        "id": "late_activity",
+        "preference": "May work or talk until midnight",
+        "possibleAgreement": "Silent presence in the retreat after house quiet hours; all conversation ends at the agreed time",
+        "_key": "entry-0"
+      }
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_tavi_mercer_retreat_actually_private",
+        "question": "Has the retreat been verified outside everyday traffic, cleaning access, and every camera view?",
+        "whyItMatters": "Tavi needs a place they can leave the company behind. Walking routes, cleaning access and camera views must all respect that retreat.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_spirit_tavi_mercer_regional_move",
+        "question": "Has Tavi agreed to this destination and the travel plan?",
+        "whyItMatters": "Meeting a household and choosing a move are separate decisions. Confirm the destination, regional preferences and arrangements for leaving together.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_tavi_mercer",
+          "history:history_tavi_mercer"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "identityHistory": [
+      "Some older documents use different names and pronouns. Tavi uses Tavi and they/them. They would rather discuss the disputed pockets in a certain stage coat than explain themselves to a stranger. On the question of those pockets, they have brought supporting evidence."
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_tavi_mercer",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_deliberate_sociability",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_tavi_mercer_protected_retreat",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_tavi_mercer_identity_respected",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-spirit-spirit_tavi_mercer",
+    "_type": "hearthSpirit"
+  },
+  {
+    "id": "spirit_bram_kestrel",
+    "name": "Bram Kestrel",
+    "pronouns": "he/him",
+    "ageAtPassing": 74,
+    "era": "1854-1928",
+    "lifespan": "1854-1928",
+    "origin": "Akron, Ohio",
+    "formerOccupation": "Canal lockkeeper and kitchen gardener",
+    "portrait": "gardener",
+    "tagline": "Company at its own pace",
+    "quote": "You may tell me about your day. You needn't improve it first.",
+    "tags": [
+      "Afternoon quiet",
+      "Needs outdoor greenery",
+      "Comfortable with silence"
+    ],
+    "summary": "A gardener who enjoys a long silence and a modest patch of green. Bram is happiest beside someone doing an ordinary task, with no expectation that either of them make it interesting.",
+    "biography": "Bram worked as a canal lockkeeper near Akron, Ohio, and cultivated a narrow plot behind his rented cottage. The plot was technically for food. He devoted a disputed amount of it to sweet peas. Passing crews remembered his weather advice, which he offered with absolute confidence and revised freely when the weather arrived. He took pride in opening the lock smoothly rather than quickly, a distinction that occasionally annoyed people with schedules.\n\nHe and his sister, Etta, shared the cottage after their parents died. Etta ran a small lending shelf and considered his ability to remember every boat's name while losing a household key a matter of deliberate choice. They were close without telling one another everything. Bram speaks fondly of Niko, an apprentice lockkeeper who left for the city. Their friendship survived partly because neither required prompt letters.\n\nThe Overlap found Bram beside a canal path, clearly visible for the first time to people walking past. He has found indoor life more tiring than modern noise. A plant on a windowsill is pleasant, but it is not a substitute for time in an open-air planted space. He will happily try a small courtyard. He will not be happy in a home with no outdoor space, however lovely the living room.",
+    "rememberedObjects": [
+      "A loop of garden twine helps him mark where he means to appear. It stays in a lidded box when not in use. He does not summon rain, change plants, spill water or produce damp. He will accept a paved courtyard with well-kept planters. He does not require a picturesque estate or a garden of his own."
+    ],
+    "quirks": [
+      "I give weather advice. You should check the actual forecast.",
+      "An ordinary evening: I would rather have an ordinary afternoon. A chair outside, perhaps somebody repotting a plant. I can be quiet without it being a message."
+    ],
+    "contradictions": [
+      "The tenancy notes call Bram the garden's sole keeper. Etta's seed lists and complaints make that unlikely. Bram now says 'our garden' and credits her with the productive half. Which half he means changes with the story."
+    ],
+    "currentWants": [
+      "An afternoon chair, a little outdoor green and someone who does not mistake quietness for distress. He is curious about city gardens and skeptical of any packet that promises a plant will be effortless.",
+      "A welcome question: Would you like to sit out for a while?",
+      "Please do not ask: To make the plants grow. The plants have their own arrangements.",
+      "A good first meeting: An afternoon visit to the actual outdoor space, with a clear indoor alternative if the weather is unpleasant",
+      "A promising trial would mean: Host and spirit have shared a quiet half-hour without feeling responsible for entertaining one another",
+      "A way to pause: Empty chair with the agreed card placed on its seat means the garden is not available for a manifestation",
+      "Leaving well: A daylight transition to a confirmed place with outdoor access; the household returns the twine box without attaching any obligation",
+      "Where to next: Curious about a warmer growing season and open to Sacramento. The important requirement is a real, permitted planted outdoor space, not a familiar state. Ask whether unfamiliar heat changes the hours he would enjoy outdoors.",
+      "An introduction and a move are separate decisions."
+    ],
+    "historyIds": [
+      "history_bram_kestrel"
+    ],
+    "traitIds": [
+      "trait_companionable_silence"
+    ],
+    "boundaryIds": [
+      "boundary_bram_kestrel_usable_outdoor_greenery",
+      "boundary_bram_kestrel_no_plant_service"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_spirit_bram_kestrel_ordinary_company",
+        "label": "An ordinary evening, in their own words",
+        "detail": "I would rather have an ordinary afternoon. A chair outside, perhaps somebody repotting a plant. I can be quiet without it being a message.",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_welcome",
+        "label": "Company that feels comfortable",
+        "detail": "Comfortable with quiet\n\nInterested in a place without trying to own it\n\nCan plan practical details without hurrying every moment",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_friction",
+        "label": "Habits that make sharing harder",
+        "detail": "Requires constant conversation\n\nTreats silence as a request for rescue\n\nInvites visitors to inspect his manifestation",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_rhythm",
+        "label": "A preferred rhythm",
+        "detail": "Daylight-oriented; weather-flexible\n\nLow; companionable parallel activity",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_manifestation_1",
+        "label": "Soft visible presence",
+        "detail": "A still, faint outline in a pre-agreed garden chair; no temperature, scent or moisture changes",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_manifestation_2",
+        "label": "Audible presence",
+        "detail": "Conversation with someone who has invited it",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_introduction",
+        "label": "An introduction is still ahead",
+        "detail": "Interested after outdoor access and any animal introduction have been checked\n\nReview complete; introduction pending\n\nNo household assignment accepted\n\nMay refuse this match, request interim accommodation or appeal the review.",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-6"
+      },
+      {
+        "id": "fact_spirit_bram_kestrel_region",
+        "label": "A place they could choose",
+        "detail": "Akron, Ohio\n\nCurious about a warmer growing season and open to Sacramento. The important requirement is a real, permitted planted outdoor space, not a familiar state. Ask whether unfamiliar heat changes the hours he would enjoy outdoors.\n\nAn introduction and a move are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-7"
+      }
+    ],
+    "energy": "quiet",
+    "company": "low",
+    "presence": "day",
+    "interests": [
+      "gardening",
+      "quiet company"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "audibleHours": {
+      "start": 13.5,
+      "end": 18
+    },
+    "preferredHours": [
+      {
+        "start": 13.5,
+        "end": 18,
+        "_key": "entry-0"
+      }
+    ],
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "homeNeeds": [
+      "A quiet home with a genuinely available planted outdoor space and low-pressure daytime company",
+      "An outdoor planted space the household has permission to use, reachable without crossing another person's private room",
+      "Real access to a planted open-air space, with household and property permission confirmed; a sealed window and a houseplant do not qualify",
+      "No promises of plant growth, weather control, garden maintenance or free labor",
+      "No moisture, scent or temperature effects",
+      "No contact with animals without a separate introduction",
+      "No accessing a neighbor's garden or shared property without permission",
+      "Pets: Unverified with individual animals; a reversible introduction is required"
+    ],
+    "negotiablePreferences": [
+      {
+        "id": "garden_size",
+        "preference": "A little space to walk among plants",
+        "possibleAgreement": "A small private courtyard with maintained planters and one agreed chair",
+        "_key": "entry-0"
+      }
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_bram_kestrel_pet_response",
+        "question": "If pets are present, has a gentle introduction shown that they can comfortably choose distance from Bram?",
+        "whyItMatters": "Give any pet a calm introduction and an easy way to leave. Bram's visible outline must not make the animal feel cornered.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_spirit_bram_kestrel_regional_move",
+        "question": "Has Bram agreed to this destination and the travel plan?",
+        "whyItMatters": "Meeting a household and choosing a move are separate decisions. Confirm the destination, regional preferences and arrangements for leaving together.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_bram_kestrel",
+          "history:history_bram_kestrel"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_bram_kestrel",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_companionable_silence",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_bram_kestrel_usable_outdoor_greenery",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_bram_kestrel_no_plant_service",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-spirit-spirit_bram_kestrel",
+    "_type": "hearthSpirit"
+  },
+  {
+    "id": "spirit_sera_dene",
+    "name": "Sera Dene",
+    "pronouns": "she/her",
+    "ageAtPassing": 71,
+    "era": "1889-1960",
+    "lifespan": "1889-1960",
+    "origin": "Santa Fe, New Mexico",
+    "formerOccupation": "Survey draftsperson and municipal map copyist",
+    "portrait": "sailor",
+    "tagline": "A way in. A way out.",
+    "quote": "Temporary is a respectable word when somebody has written down what happens next.",
+    "tags": [
+      "Flexible night owl",
+      "Exit plan essential",
+      "Curious about everywhere"
+    ],
+    "summary": "A mapmaker who wants every plan to include the door. Sera enjoys night-owl company, lively corrections and a home that can welcome her without promising forever.",
+    "biography": "Sera copied maps in a municipal drafting room in Santa Fe for most of her working life. She was excellent at neat lettering and less willing to preserve a line simply because it had appeared on the previous map. Her working sheets accumulate small practical corrections: a stair used by everyone but named by nobody, a public bench omitted because it complicated the legend, a footpath that remained a footpath however often the office wished otherwise.\n\nHer spouse, Kit, repaired musical instruments and rarely arrived home by the shortest route. They shared a fondness for asking what lay down an unfamiliar street. Sera also corresponded for decades with Anwen, a colleague who left the drafting room for fieldwork. Their letters alternate between professional disagreement and detailed reports of very ordinary lunches. She would like a housemate who understands that a practical question can also be an expression of care.\n\nAfter the Overlap, Sera’s first temporary lodging ended with two people each assuming the other had arranged her next place. Nothing dangerous happened, but the uncertainty was exhausting. She now requires a confirmed departure plan before accepting a new arrival. She is not asking a household to promise it will work. She is asking it to make leaving possible. At her mandatory review, she asked who was responsible for the word “temporary.” The officer wrote it down.",
+    "rememberedObjects": [
+      "Her folded map is a personal object, not a supernatural navigation system. With permission she can turn one page of her own notebook to signal that she is present. She cannot track people, find the missing or reveal the contents of private rooms. Maps in a home remain maps, not monitoring devices."
+    ],
+    "quirks": [
+      "I ask where an arrangement leads. This can sound like reluctance when I am actually trying to say yes.",
+      "An ordinary evening: Tell me a small thing you noticed on the way home. I will try not to ask for a diagram unless it is necessary."
+    ],
+    "contradictions": [
+      "Sera says she dislikes nostalgia. She carries a deliberately outdated pocket map because it marks a bakery that no longer exists. She is perfectly capable of updating it and has chosen not to. She would like this distinction recorded."
+    ],
+    "currentWants": [
+      "A household with enough honesty to say, 'We are busy this week.' An occasional conversation about how a place changes. A first attempt at understanding satellite navigation, which she expects to admire and argue with in equal measure.",
+      "A welcome question: Would you like the plan written down?",
+      "Please do not ask: To find someone for you. Knowing where I lived does not mean knowing where everyone is.",
+      "A good first meeting: See the common room and then discuss the exit plan, without treating the second part as pessimism",
+      "A promising trial would mean: She can explain exactly how she would leave, and still freely chooses to stay for the next agreed night",
+      "A way to pause: Notebook closed with a yellow card on top means no conversation",
+      "Leaving well: A written destination, an agreed transition time, returned belongings and a named person responsible for confirming arrival",
+      "Where to next: Open to Sacramento or another U.S. city, provided the destination, interim arrangements and transition coordinator are confirmed. A map marker is not confirmation that a room is available.",
+      "An introduction and a move are separate decisions."
+    ],
+    "historyIds": [
+      "history_sera_dene"
+    ],
+    "traitIds": [
+      "trait_clear_exits"
+    ],
+    "boundaryIds": [
+      "boundary_sera_dene_confirmed_exit_destination",
+      "boundary_sera_dene_no_tracking_expectation"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_spirit_sera_dene_ordinary_company",
+        "label": "An ordinary evening, in their own words",
+        "detail": "Tell me a small thing you noticed on the way home. I will try not to ask for a diagram unless it is necessary.",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_spirit_sera_dene_welcome",
+        "label": "Company that feels comfortable",
+        "detail": "Accepts practical questions warmly\n\nEnjoys a place at a slower pace than she does\n\nCan distinguish a possible plan from a confirmed one",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "fact_spirit_sera_dene_friction",
+        "label": "Habits that make sharing harder",
+        "detail": "Promises forever before an introduction\n\nTreats departure as disloyalty\n\nTells her details will work themselves out",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "fact_spirit_sera_dene_rhythm",
+        "label": "A preferred rhythm",
+        "detail": "Flexible; can align to a shift worker if changes are communicated\n\nLow to medium; likes purposeful conversation",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "fact_spirit_sera_dene_manifestation_1",
+        "label": "Small object movement",
+        "detail": "May turn a page of her own clearly marked notebook",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "fact_spirit_sera_dene_manifestation_2",
+        "label": "Audible presence",
+        "detail": "Conversation only in the agreed awake windows",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "fact_spirit_sera_dene_introduction",
+        "label": "An introduction is still ahead",
+        "detail": "Interested; a verified interim destination is mandatory before trial consent\n\nReview complete; introduction pending\n\nNo household assignment accepted\n\nMay refuse this match, request interim accommodation or appeal the review.",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-6"
+      },
+      {
+        "id": "fact_spirit_sera_dene_region",
+        "label": "A place they could choose",
+        "detail": "Santa Fe, New Mexico\n\nOpen to Sacramento or another U.S. city, provided the destination, interim arrangements and transition coordinator are confirmed. A map marker is not confirmation that a room is available.\n\nAn introduction and a move are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-7"
+      }
+    ],
+    "energy": "balanced",
+    "company": "medium",
+    "presence": "both",
+    "interests": [
+      "maps",
+      "stories",
+      "stargazing"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "audibleHours": {
+      "start": 22,
+      "end": 1
+    },
+    "preferredHours": [
+      {
+        "start": 15,
+        "end": 18,
+        "_key": "entry-0"
+      },
+      {
+        "start": 22,
+        "end": 1,
+        "_key": "entry-1"
+      }
+    ],
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "homeNeeds": [
+      "A calm household with clear transitions, honest availability and room for a conversation that takes an unexpected turn",
+      "A shared-room shelf for her notebook, with access to an agreed retreat; no display case",
+      "A named, confirmed interim destination and responsible coordinator before any trial begins",
+      "No surveillance, finding people, retrieving secrets or access to private information",
+      "No bedroom access",
+      "No maps or notes made about private household activity",
+      "No audible presence while the host is sleeping",
+      "Pets: Can keep notebook and token inaccessible to animals; no animal interaction requested"
+    ],
+    "negotiablePreferences": [
+      {
+        "id": "late_company",
+        "preference": "Some conversation after 22:00",
+        "possibleAgreement": "Two afternoon check-ins and one optional late conversation on a host's night off; silence otherwise",
+        "_key": "entry-0"
+      }
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_sera_dene_exit_plan_confirmed",
+        "question": "Has the interim host or placement desk actually confirmed the next place and its coordinator?",
+        "whyItMatters": "The next place and its coordinator must actually be confirmed. A possible destination is not yet a safe leaving plan.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_spirit_sera_dene_regional_move",
+        "question": "Has Sera agreed to this destination and the travel plan?",
+        "whyItMatters": "Meeting a household and choosing a move are separate decisions. Confirm the destination, regional preferences and arrangements for leaving together.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_sera_dene",
+          "history:history_sera_dene"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_sera_dene",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_clear_exits",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_sera_dene_confirmed_exit_destination",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_sera_dene_no_tracking_expectation",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-spirit-spirit_sera_dene",
+    "_type": "hearthSpirit"
+  },
+  {
+    "presence": "day",
+    "boundaryIds": [
+      "boundary_aster_private_retreat",
+      "boundary_aster_camera_free",
+      "boundary_aster_quiet_plan",
+      "boundary_aster_own_choices",
+      "boundary_aster_two_evenings"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "negotiablePreferences": [
+      {
+        "id": "aster_evening_invitation",
+        "preference": "Two ordinary early evenings together each week.",
+        "possibleAgreement": "Choose two sustainable early-evening invitations; anyone may decline on the day without losing their place.",
+        "_key": "entry-0"
+      }
+    ],
+    "id": "spirit_mara_aster",
+    "name": "Mara Aster",
+    "pronouns": "she/her",
+    "ageAtPassing": 38,
+    "requiredCompanionIds": [
+      "spirit_leon_aster",
+      "spirit_kit_aster"
+    ],
+    "era": "1977–2015",
+    "lifespan": "1977–2015",
+    "origin": "Bellwether, a fictional riverside town",
+    "formerOccupation": "Public-library access coordinator",
+    "portrait": "scholar",
+    "tagline": "A plan with room to change it",
+    "quote": "The point of a timetable is to leave enough afternoon for something unplanned.",
+    "tags": [
+      "Aster family of three",
+      "Kit’s documented guardian",
+      "Early-evening company"
+    ],
+    "summary": "A thoughtful organiser who likes bus maps, short mysteries and an afternoon that occasionally escapes the plan. Mara is applying with her partner Leon and their nine-year-old child Kit.",
+    "biography": "Mara coordinated the home-delivery shelf at Bellwether’s public library. She knew which readers wanted a recommendation and which only wanted their books delivered without a conversation. She also organised the town’s first large-print bus leaflet, then spent a wet Saturday admitting that her own connecting route did not work.\n\nAt home she and Leon shared the ordinary work of raising Kit: lunch boxes, unfinished projects and the negotiation over one more page. Mara kept a paper calendar because its empty squares looked reassuring. Leon kept adding small occasions to it. They were partners in life and have chosen to apply together after the Overlap. Their biographies record their lives rather than asking visitors to revisit the circumstances of their deaths.\n\nMara is Kit’s documented departed guardian. She and Leon want a care plan that preserves their family relationship while respecting the living household’s separate responsibilities. She wants to learn the current library catalogue on a borrowed tablet, with notifications off and nobody photographing the lesson. She is interested in a first conversation; she has not consented to a placement.",
+    "identityHistory": [
+      "Mara uses her own stated name and pronouns. Her role as Kit’s guardian does not make her the household’s carer or administrator."
+    ],
+    "rememberedObjects": [
+      "A blue library-date stamp, kept as a memory rather than a tool anyone must acquire.",
+      "A paper bus map with one carefully corrected connection."
+    ],
+    "quirks": [
+      "Leaves an empty square on every weekly plan for something that has not occurred to her yet.",
+      "Wants to learn a tablet’s back button before opening anything interesting."
+    ],
+    "contradictions": [
+      "Enjoys a clear plan and is secretly delighted when a good invitation changes it."
+    ],
+    "currentWants": [
+      "An early evening of parallel reading, with permission to put the book down.",
+      "A slow introduction to a current library catalogue; teaching or clerical work is never rent.",
+      "Kit’s views heard directly, without asking the child to take responsibility for adult feelings.",
+      "A confirmed interim welcome where Kit can remain with their guardian if a trial ends."
+    ],
+    "historyIds": [
+      "history_mara_aster"
+    ],
+    "traitIds": [
+      "trait_aster_patient_structure"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_mara_routine",
+        "label": "A modern routine to learn",
+        "detail": "Mara would like a short, unrecorded lesson in the library’s tablet catalogue, followed by tea and separate reading.",
+        "sourceRefs": [
+          "spirit:spirit_mara_aster",
+          "history:history_mara_aster"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_mara_guardian",
+        "label": "Kit’s documented guardian",
+        "detail": "Mara continues as Kit’s guardian; her own placement consent, her care agreement for Kit and Kit’s age-appropriate assent are separate decisions.",
+        "sourceRefs": [
+          "spirit:spirit_mara_aster",
+          "spirit:spirit_kit_aster",
+          "history:history_mara_aster"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "energy": "quiet",
+    "company": "medium",
+    "interests": [
+      "maps",
+      "stories",
+      "books"
+    ],
+    "audibleHours": {
+      "start": 17,
+      "end": 20
+    },
+    "preferredHours": [
+      {
+        "start": 15,
+        "end": 17,
+        "_key": "entry-0"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "_key": "entry-1"
+      }
+    ],
+    "homeNeeds": [
+      "A protected family retreat and separate opportunities for each person to ask for quiet.",
+      "A written quiet plan, no recording, and two sustainable early-evening invitations.",
+      "A named coordinator to review care and the confirmed family exit together."
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_mara_guardian_plan",
+        "question": "Have Mara, Leon and the coordinator agreed who provides Kit’s continuing care, the private retreat and an exit that keeps Kit with their guardian?",
+        "whyItMatters": "The living household does not acquire childcare duties by offering a home, and Mara’s own welcome is a separate decision from guardian care agreement.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_mara_aster",
+          "spirit:spirit_leon_aster",
+          "spirit:spirit_kit_aster"
+        ],
+        "_key": "entry-0"
+      }
+    ],
+    "companionRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_leon_aster",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_kit_aster",
+        "_key": "ref-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_mara_aster",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_aster_patient_structure",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_private_retreat",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_camera_free",
+        "_key": "ref-1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_quiet_plan",
+        "_key": "ref-2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_own_choices",
+        "_key": "ref-3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_two_evenings",
+        "_key": "ref-4"
+      }
+    ],
+    "_id": "ha-spirit-spirit_mara_aster",
+    "_type": "hearthSpirit"
+  },
+  {
+    "presence": "day",
+    "boundaryIds": [
+      "boundary_aster_private_retreat",
+      "boundary_aster_camera_free",
+      "boundary_aster_quiet_plan",
+      "boundary_aster_own_choices",
+      "boundary_aster_two_evenings"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "negotiablePreferences": [
+      {
+        "id": "aster_evening_invitation",
+        "preference": "Two ordinary early evenings together each week.",
+        "possibleAgreement": "Choose two sustainable early-evening invitations; anyone may decline on the day without losing their place.",
+        "_key": "entry-0"
+      }
+    ],
+    "id": "spirit_leon_aster",
+    "name": "Leon Aster",
+    "pronouns": "he/him",
+    "ageAtPassing": 41,
+    "requiredCompanionIds": [
+      "spirit_mara_aster",
+      "spirit_kit_aster"
+    ],
+    "era": "1974–2015",
+    "lifespan": "1974–2015",
+    "origin": "Bellwether, a fictional riverside town",
+    "formerOccupation": "Community-centre kitchen coordinator",
+    "portrait": "artist",
+    "tagline": "There is usually another way",
+    "quote": "A recipe can be a suggestion. A promise needs a little more care.",
+    "tags": [
+      "Aster family of three",
+      "Small kitchen experiments",
+      "Company without duties"
+    ],
+    "summary": "Leon likes a shared table, cardboard engineering and recipes with pencilled amendments. He and Mara are partners and Kit’s parents; he wants room to be a guest as well as a parent.",
+    "biography": "Leon coordinated the kitchen at Bellwether’s community centre, where his greatest professional achievement was an inventory that other people actually used. He enjoyed cooking but disliked being introduced as the person who would certainly feed everyone. His favourite events were the ones where he could take his coat off and sit down before being helpful.\n\nAt home, Leon and Kit built cardboard versions of the town. Their model bus station had a roof that opened to become a cinema. Mara contributed accurate route numbers; Leon contributed a park where the real town had a car park. He and Mara sometimes disagreed about when an experiment should stop taking up the table. They practised returning to that discussion after everyone had eaten.\n\nSince the Overlap, Leon has become curious about induction hobs and captioned recipe videos. He would enjoy learning beside someone without being expected to cook for them. He applies with Mara and Kit, recognising Mara’s documented guardian role and his own continuing responsibilities in their agreed family care plan. He has agreed to introductions only; the next household has not been chosen.",
+    "identityHistory": [
+      "Leon calls Mara his partner and Kit his child. Neither relationship authorises other people to speak for his own placement decision."
+    ],
+    "rememberedObjects": [
+      "A wooden recipe box with an index card labelled TRY LESS CUMIN.",
+      "The cardboard cinema’s removable roof; a new piece of card would do just as well."
+    ],
+    "quirks": [
+      "Reads the comments beneath a recipe only after trying the recipe.",
+      "Makes excellent tiny cardboard chairs and rather unconvincing tiny people."
+    ],
+    "contradictions": [
+      "Improvises freely with supper but writes down every promise about being home."
+    ],
+    "currentWants": [
+      "To learn how an induction hob signals heat, from a comfortable agreed distance.",
+      "Occasional captioned recipe videos with the autoplay switched off.",
+      "A family supper invitation that does not make him the cook.",
+      "An ordinary private way for each person to say that the arrangement is not working."
+    ],
+    "historyIds": [
+      "history_leon_aster"
+    ],
+    "traitIds": [
+      "trait_aster_resourceful_play"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_leon_routine",
+        "label": "An unhurried table",
+        "detail": "Leon likes early-evening kitchen conversation and making things from saved cardboard; invitations carry no obligation to provide meals or entertainment.",
+        "sourceRefs": [
+          "spirit:spirit_leon_aster",
+          "history:history_leon_aster",
+          "boundary:boundary_aster_own_choices"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_leon_family",
+        "label": "A family applying together",
+        "detail": "Leon, Mara and Kit have a shared history but retain individual preferences, separate conversations and the right to refuse.",
+        "sourceRefs": [
+          "relationship:relationship_aster_parents",
+          "relationship:relationship_aster_leon_kit"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "energy": "balanced",
+    "company": "medium",
+    "interests": [
+      "cooking",
+      "stories",
+      "craft"
+    ],
+    "audibleHours": {
+      "start": 17,
+      "end": 20.5
+    },
+    "preferredHours": [
+      {
+        "start": 17,
+        "end": 20.5,
+        "_key": "entry-0"
+      }
+    ],
+    "homeNeeds": [
+      "A real private retreat, a camera-free common room and predictable quiet hours.",
+      "Two possible early evenings together, with ordinary family care discussed separately from hosting."
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_leon_no_service",
+        "question": "Has everyone agreed that Leon’s kitchen knowledge is an optional shared interest, and that the living household and departed parents retain their own care responsibilities?",
+        "whyItMatters": "A meal invitation must not become unpaid cooking, supervision or emotional care as a condition of welcome.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_leon_aster",
+          "boundary:boundary_aster_own_choices"
+        ],
+        "_key": "entry-0"
+      }
+    ],
+    "companionRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_mara_aster",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_kit_aster",
+        "_key": "ref-1"
+      }
+    ],
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_leon_aster",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_aster_resourceful_play",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_private_retreat",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_camera_free",
+        "_key": "ref-1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_quiet_plan",
+        "_key": "ref-2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_own_choices",
+        "_key": "ref-3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_two_evenings",
+        "_key": "ref-4"
+      }
+    ],
+    "_id": "ha-spirit-spirit_leon_aster",
+    "_type": "hearthSpirit"
+  },
+  {
+    "presence": "day",
+    "boundaryIds": [
+      "boundary_aster_private_retreat",
+      "boundary_aster_camera_free",
+      "boundary_aster_quiet_plan",
+      "boundary_aster_own_choices",
+      "boundary_aster_two_evenings"
+    ],
+    "petCompatibility": {
+      "cats": null,
+      "dogs": null,
+      "other": null
+    },
+    "quietHoursFlexibility": "can-adjust",
+    "spiritConsent": "yes",
+    "negotiablePreferences": [
+      {
+        "id": "aster_evening_invitation",
+        "preference": "Two ordinary early evenings together each week.",
+        "possibleAgreement": "Choose two sustainable early-evening invitations; anyone may decline on the day without losing their place.",
+        "_key": "entry-0"
+      }
+    ],
+    "id": "spirit_kit_aster",
+    "name": "Kit Aster",
+    "pronouns": "they/them",
+    "ageAtPassing": 9,
+    "guardianSpiritId": "spirit_mara_aster",
+    "assentRequired": true,
+    "requiredCompanionIds": [
+      "spirit_mara_aster",
+      "spirit_leon_aster"
+    ],
+    "era": "2006–2015",
+    "lifespan": "2006–2015",
+    "origin": "Bellwether, a fictional riverside town",
+    "formerOccupation": "Primary-school pupil and enthusiastic model-town maker",
+    "portrait": "child",
+    "tagline": "The map needs a secret park",
+    "quote": "You can look at it. You don’t have to say it’s finished.",
+    "tags": [
+      "Aster family of three",
+      "Age 9 · guardian and assent",
+      "Cardboard worlds"
+    ],
+    "summary": "Kit is nine, curious about maps and determined that every model town needs somewhere to play. They are applying with their parents, Mara and Leon, and can say no at any point.",
+    "biography": "Kit liked the Bellwether library’s map drawer because it was large enough to require both hands. Their own maps included quiet places behind the obvious ones: a park under the bus station and a small bridge that went nowhere until someone needed it. They enjoyed making things with Leon and choosing books with Mara, but did not want every finished thing displayed to visitors.\n\nKit remains a dependent child after the Overlap. Mara is their documented guardian, with Leon participating in the agreed family care plan. Kit is interested in meeting a household together, not in being sent to a home alone or becoming a companion assigned to a living child. They would like to try a simple, offline drawing app with a parent present. The camera and microphone remain switched off.\n\nThe first meeting should be short, with Kit able to show a drawing or say nothing. An age-appropriate conversation with the coordinator, access to their guardian and a practised stop signal must precede any trial. Their willingness to meet is not placement assent, and a guardian’s agreement cannot overrule their refusal.",
+    "identityHistory": [
+      "Kit uses they/them. A child’s stated name and pronouns are respected without requiring a performance or an explanation."
+    ],
+    "rememberedObjects": [
+      "A folded map with a secret park beneath the bus station.",
+      "A green pencil worn flat on one side; drawing supplies are welcome, never a condition of arrival."
+    ],
+    "quirks": [
+      "Builds bus shelters before houses because people should not have to wait in the rain.",
+      "Likes the sound of a printer finishing but wants to know before it starts."
+    ],
+    "contradictions": [
+      "Loves telling a long story and sometimes prefers to show it without answering questions."
+    ],
+    "currentWants": [
+      "To make a flipbook animation of an imagined town in a drawing app with a parent; no camera or microphone.",
+      "A protected shelf where an unfinished model may stay unfinished.",
+      "Short invitations with the option to leave, and a STOP card that works without an explanation.",
+      "To be asked directly whether a meeting feels comfortable, without having to protect adults from disappointment."
+    ],
+    "historyIds": [
+      "history_kit_aster"
+    ],
+    "traitIds": [
+      "trait_aster_open_curiosity"
+    ],
+    "affinityFacts": [
+      {
+        "id": "fact_kit_play",
+        "label": "An ordinary afternoon",
+        "detail": "Maps, folded card and an optional shared story are a promising invitation. Kit’s work is not an exhibition and Kit is not responsible for entertaining another child.",
+        "sourceRefs": [
+          "spirit:spirit_kit_aster",
+          "history:history_kit_aster",
+          "boundary:boundary_aster_own_choices"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "fact_kit_assent",
+        "label": "A child’s own answer",
+        "detail": "Kit’s age-appropriate assent is required separately from Mara’s guardian care agreement. Refusal stops the proposed stay; the family needs a confirmed safe exit together.",
+        "sourceRefs": [
+          "spirit:spirit_kit_aster",
+          "spirit:spirit_mara_aster"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "energy": "lively",
+    "company": "high",
+    "interests": [
+      "maps",
+      "craft",
+      "stories"
+    ],
+    "audibleHours": {
+      "start": 16,
+      "end": 19
+    },
+    "preferredHours": [
+      {
+        "start": 16,
+        "end": 19,
+        "_key": "entry-0"
+      }
+    ],
+    "homeNeeds": [
+      "A documented guardian in the same placement and a reviewed, age-appropriate care plan.",
+      "A private family retreat, an unrecorded presence area and predictable quiet hours.",
+      "No expectation of friendship, supervision or performance for the household’s children or guests."
+    ],
+    "introductionQuestions": [
+      {
+        "id": "question_kit_assent_and_stop",
+        "question": "Has Kit had a short, age-appropriate conversation with access to Mara, tried their STOP signal, and freely said that they want to try this particular home?",
+        "whyItMatters": "Kit’s own assent cannot be supplied by a parent, inferred from quietness or exchanged for a high match score.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "spirit:spirit_kit_aster",
+          "spirit:spirit_mara_aster"
+        ],
+        "_key": "entry-0"
+      }
+    ],
+    "companionRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_mara_aster",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_leon_aster",
+        "_key": "ref-1"
+      }
+    ],
+    "guardianRef": {
+      "_type": "reference",
+      "_ref": "ha-spirit-spirit_mara_aster"
+    },
+    "historyRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-history-history_kit_aster",
+        "_key": "ref-0"
+      }
+    ],
+    "traitRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-trait-trait_aster_open_curiosity",
+        "_key": "ref-0"
+      }
+    ],
+    "boundaryRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_private_retreat",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_camera_free",
+        "_key": "ref-1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_quiet_plan",
+        "_key": "ref-2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_own_choices",
+        "_key": "ref-3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-boundary-boundary_aster_two_evenings",
+        "_key": "ref-4"
+      }
+    ],
+    "_id": "ha-spirit-spirit_kit_aster",
+    "_type": "hearthSpirit"
+  },
+  {
+    "id": "household_june_leila",
+    "name": "June & Leila’s blue-stair house",
+    "subtitle": "Quiet company, quite particular",
+    "summary": "A settled couple, a bright front room and a kitchen table with one excellent wobble. They are offering room in an ordinary life, with firm work hours and a very real 22:00 bedtime.",
+    "story": "Household: Two-adult couple. Richmond, Virginia.\n\nWe are good at making tea and saying what we mean. We are less good at staying awake past ten.\n\nJune Arden, 44, she/her. Adult resident. Bicycle mechanic; out Tuesday through Saturday, usually 08:00 to 17:30. Interested in everyday company; protective of early nights before work. Willing to meet; trial consent not yet given.\n\nLeila Arden, 47, she/her. Adult resident. Freelance indexer; works from home, usually 09:00 to 16:00. Likes parallel company but needs uninterrupted work blocks. Willing to meet; trial consent not yet given.\n\nWhy now: June: When the first Virginia Overlap notices appeared, we assumed volunteering would mean offering a spare room. The application asked more useful things, like whether we could hear “no” without getting offended. We have space in the day that we did not have ten years ago. We are not hoping new housemates will give our lives a purpose. They already have purposes, several of them involving laundry. We would like to share some of the ordinary bits.\n\nWhat company means: Leila: I work with words alone for most of the week. I like another person reading nearby. That does not mean I can chat whenever I am home. If my office door is shut, assume I am working rather than secretly waiting to be coaxed out.\n\nWhat they disagree about: June likes deciding a week in advance. Leila likes leaving Wednesday open. They have agreed to post firm commitments and quiet hours, while marking optional invitations as genuinely optional. Neither wants the spirits to settle their scheduling disagreements.\n\nPrevious experience: No prior spirit placement. They have hosted a friend through a three-month home repair and learned that 'make yourself at home' is less useful than explaining where the spare sheets are and when you need the kitchen.\n\nWhat they can offer: A predictable home, direct invitations, a seat with daylight and a regular check-in that will not be canceled because nobody has a complaint.\n\nWhat they cannot offer: Continuous company, a household role, a filming opportunity or a promise that an unsuccessful trial will feel disappointing to nobody.\n\nA question for the spirits: What would make it easy to tell us that an arrangement no longer suits you?\n\nThe home: Owned two-story row house\n\nPermission to host: June and Leila own and live in the house together.\n\nShared spaces:\n- Front room with morning light and a blank north wall\n- Kitchen and dining table\n- Planted private back courtyard\n\nPrivate spaces:\n- Both bedrooms\n- Bathroom\n- Leila's office whenever its door is closed\n\nA place to retreat: A screened nook off the front room; its final boundaries must be shown during the introduction\n\nSound and light: No television in the bedrooms. Front-room light can be contained with an existing curtain. The wall clock is silent.\n\nRecording devices: No indoor cameras, smart speakers, doorbell camera or routinely recording devices. Personal phones stay unrecording during introductions.\n\nGetting around: The agreed shared room, kitchen, courtyard and retreat are on the ground floor. Nobody needs to cross a private room to reach them.\n\nOrdinary imperfections: A stair creaks, the kitchen table wobbles and the front-room bookcase has not been sorted since the move. They would like to keep at least two of these facts unchanged.\n\nLocation: Richmond, Virginia\n\nRegion: Mid-Atlantic\n\nWaking hours: 06:45 to 07:30\n\nSleep and quiet: Quiet from 22:00 to 07:00; no sound, object movement or light visible from private rooms\n\nShared meals: Usually four evenings weekly, around 18:45; no guest is expected to attend all of them\n\nReliable company:\n- Breakfast on Sunday and Monday\n- A short evening check-in around 19:30\n- Two planned film evenings weekly if both end by 22:00\n\nTime at home: Leila is physically home on weekdays but unavailable during closed-door work blocks\n\nVisitors: Occasional adult friends, normally planned two days ahead; no unannounced introductions to resident spirits\n\nTravel: Usually one week away in spring; any placement would need a separate plan for that period\n\nFirm boundaries:\n- No manifestation in bedrooms or bathroom\n- No interruptions behind a closed office door\n- No manifestations after 22:00 unless a separate change is explicitly agreed\n- No changes to clocks, locks, appliances or safety equipment\n- No filming, streaming or public exhibition\n- No expected domestic labor\n\nOnly with individual agreement:\n- Ordinary conversation in the shared room\n- A still low light on the agreed front-room wall\n- Movement of a spirit's own marked token on its shelf\n\nNot welcome:\n- Flicker or flashing light\n- Scents or temperature changes\n- Uninvited touch\n- Surprise visitors introduced as a demonstration\n\nRoom to negotiate: Meal attendance, which two film evenings to choose and whether the shared calendar lives on paper or a screen\n\nStill unanswered: June finds some low light distracting even without flicker. Is Orin's steady manifestation comfortable at the proposed brightness and distance? This needs an explicit answer after a consensual demonstration, not an inferred yes.\n\nThe proposed trial: Fourteen nights, beginning only after all four participants approve the same plan\n\nCheck-ins:\n- Before arrival: privacy and light walkthrough\n- Day 2: individual check-ins with each adult and each spirit\n- Day 7: group review plus a private way to decline\n- Day 14: explicit decision to end, extend or revise; silence is not renewal\n\nWhat a comfortable trial would look like:\n- Leila completes her normal work blocks without interruption\n- June's sleep remains undisturbed\n- Both spirits can decline an invitation comfortably\n- The household feels companionable rather than obliged to perform\n\nStopping early: Any participant can request an immediate pause and an orderly relocation; no need to complete the fourteen nights\n\nLeaving plan: A camera-free interim room through the placement desk, followed by time to choose the next home without pressure.\n\nCurrent destination status: Requested; awaiting confirmation\n\nResponsible coordinator: Placement desk role, to be assigned before trial\n\nHousehold responsibilities: Return personal tokens and voluntarily stored belongings, agree a transition time and avoid making departure a test of affection\n\nIf the next place is unavailable: If the interim room is unavailable, the trial does not start until another acceptable destination is confirmed\n\nChoosing the region: Each spirit chooses the destination and region before the move is arranged.\n\nHA-H-2101. Application received; introductions pending. No residents assigned. Volunteer home. Every adult may decline before or during a trial.",
+    "features": [
+      "Quiet from 22:00",
+      "No cameras",
+      "Morning and evening company",
+      "Richmond, Virginia",
+      "A screened nook off the front room; its final boundaries must be shown during the introduction",
+      "No indoor cameras, smart speakers, doorbell camera or routinely recording devices. Personal phones stay unrecording during introductions."
+    ],
+    "preferences": {
+      "templateId": "household_june_leila",
+      "departedCapacity": 2,
+      "householdConsent": "yes",
+      "pets": "none",
+      "quietHours": {
+        "start": 22,
+        "end": 7
+      },
+      "privateRetreat": true,
+      "stepFreeAccess": null,
+      "hasGarden": true,
+      "activityPreference": "quiet",
+      "companyPreference": "low",
+      "nightPresence": "welcome",
+      "relocationWillingness": "yes",
+      "recordingPolicy": "none",
+      "sharedEvenings": 4,
+      "respectBoundaries": "yes",
+      "welcomedInterests": [
+        "tea",
+        "books",
+        "films",
+        "stories"
+      ]
+    },
+    "introductionQuestions": [
+      {
+        "id": "question_confirmed_exit",
+        "question": "Has the interim destination and responsible coordinator actually confirmed the welcome?",
+        "whyItMatters": "A potential destination is not a confirmed exit. The receiving person or placement desk must agree before the trial.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_june_leila"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_june_low_light",
+        "question": "Has every resident confirmed that any proposed low light is comfortable and remains inside the agreed room?",
+        "whyItMatters": "Welcoming evening company does not settle individual comfort with light. If no light manifestation is proposed, confirm that shared understanding.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_june_leila"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "question_june_ticking",
+        "question": "Have the proposed spirits and residents confirmed a comfortable sound arrangement, with no ticking required?",
+        "whyItMatters": "Nobody must produce mechanical sounds or accept a sound they find uncomfortable. Agree the actual proposal with the people taking part.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_june_leila"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "question_household_june_leila_adult_approval_1",
+        "question": "Has June Arden independently approved this exact trial, privacy, recording, and leaving plan?",
+        "whyItMatters": "Willing to meet; trial consent not yet given. A household response does not replace June Arden's own decision. Any adult may decline or withdraw without a vote.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_june_leila"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "question_household_june_leila_adult_approval_2",
+        "question": "Has Leila Arden independently approved this exact trial, privacy, recording, and leaving plan?",
+        "whyItMatters": "Willing to meet; trial consent not yet given. A household response does not replace Leila Arden's own decision. Any adult may decline or withdraw without a vote.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_june_leila"
+        ],
+        "_key": "entry-4"
+      }
+    ],
+    "_id": "ha-home-household_june_leila",
+    "_type": "hearthHome"
+  },
+  {
+    "id": "household_north_window",
+    "name": "The North Window household",
+    "subtitle": "Come in. Sit out when you like.",
+    "summary": "Three friends share a tall rented house, most dinners and no expectation of perfect sociability. The kitchen is lively, the private rooms are private and the guest list needs a little discipline.",
+    "story": "Household: Three-adult shared home. Chicago, Illinois.\n\nThere is usually something happening downstairs. You are allowed to find that reassuring without joining in.\n\nDev Malik, 36, he/him. Adult resident. Transit timetable analyst; out weekdays, home around 18:30. Likes a busy kitchen and clearly stated plans. Willing to meet; trial consent not yet given.\n\nRuth Salcedo, 41, she/her. Adult resident. Bookshop manager; variable afternoon and Saturday shifts. Wants company without becoming anyone's social coordinator. Willing to meet; trial consent not yet given.\n\nEllis Rowe, 33, they/them. Adult resident. Costume technician; often home after 21:00 during production weeks. Enthusiastic about a creative housemate and careful not to imply unpaid commissions. Willing to meet; trial consent not yet given.\n\nWhy now: Dev: We have been friends for eleven years and housemates in Chicago for four. We like living with other people. We read the Overlap notice and then spent three evenings deciding whether we actually meant yes. The house can fit two more presences more easily than it can fit two more wardrobes, which feels like a rare alignment of circumstances.\n\nWhat company means: Ruth: We usually eat together four nights a week. 'Together' sometimes means two people talking while the third reads. I would like a new housemate to see that as successful rather than as an evening we failed to host properly.\n\nWhat they disagree about: Ellis thinks an extra friend at dinner rarely needs notice. Dev and Ruth disagree. They have now agreed that a spirit introduction always needs advance notice and consent, even when inviting the human friend does not. This is a change they need to prove they can keep during a trial.\n\nPrevious experience: The household has welcomed short-term adult subtenants. Their most useful lesson was to say what 'shared' meant: shared food had labels, shared company was optional and nobody had to explain a closed door.\n\nWhat they can offer: Existing communal routines, a proper retreat, direct feedback and a home where different names, backgrounds and ways of being social are unremarkable.\n\nWhat they cannot offer: A silent house all day, a permanent gathering every evening or the promise that creative interests will turn into collaborations.\n\nA question for the spirits: How would you like us to introduce you to friends, and what should we say when you do not want to join?\n\nThe home: Rented three-story greystone with a large ground-floor kitchen\n\nPermission to host: All three residents are applying. They have supplied the property owner’s written permission for a two-spirit trial.\n\nShared spaces:\n- Kitchen and dining room\n- Living room\n- Small covered patio with potted plants\n\nPrivate spaces:\n- All three bedrooms\n- Bathroom\n- Any room marked CLOSED on the shared calendar\n\nA place to retreat: A ground-floor reading alcove with a screen and a separate route to the kitchen; the screen must be installed before Tavi's trial\n\nSound and light: Lively downstairs until 23:00, then quiet. No amplified music after 22:00. The alcove is out of the route to the bathroom.\n\nRecording devices: No permanent cameras. Ellis sometimes records craft demonstrations using a phone. Those recordings must remain in Ellis's closed private room, with no resident spirit present or audible, and no incidental background recording.\n\nGetting around: The shared rooms, patio and proposed retreat are on the ground floor. Private bedrooms are upstairs.\n\nOrdinary imperfections: The mugs do not belong to particular people until somebody uses the yellow one. The guest chair is covered in coats. The house calendar contains several crossed-out attempts at a cleaning rota.\n\nLocation: Chicago, Illinois\n\nRegion: Midwest / Great Lakes\n\nWaking hours: Staggered, 07:00 to 10:00\n\nSleep and quiet: Quiet from 23:00 to 08:00; individual bedroom privacy applies all day\n\nShared meals: Monday, Wednesday, Friday and Sunday around 19:30, with one or more residents occasionally absent\n\nReliable company:\n- Four existing shared dinner slots\n- An optional Sunday making-and-mending afternoon\n- Late tea with Ellis on non-production weeks\n\nTime at home: Nobody reliably home through the weekday; no daytime companionship promised\n\nVisitors: One or two adult friends most weeks. During a trial, one new visitor at a time and no unannounced spirit introductions.\n\nTravel: Rarely all away together; schedule changes posted at least one week ahead when possible\n\nFirm boundaries:\n- Every adult resident must independently consent\n- All bedrooms and bathroom are off-limits\n- No filmed or streamed resident spirit\n- No paid appearances or commissions expected\n- No compulsory dinners, craft sessions or group check-ins without a private alternative\n- A retreat remains private during social events\n\nOnly with individual agreement:\n- Conversation and normal room-level sound before 23:00\n- Movement of personally owned, marked tokens\n- Introductions to named adult guests who have agreed to meet\n\nNot welcome:\n- Pranks on guests\n- Possession, dream entry or surprise manifestations\n- Borrowed materials without permission\n- Food, scent or temperature changes\n\nRoom to negotiate: Which room hosts an optional craft evening and how much notice guests require; no negotiation can override a person's refusal to meet\n\nStill unanswered: Will Ellis commit to making every recording in the closed private room and verify that no sound or image from a spirit can be captured? The application proposes this but the individual confirmation is not yet recorded.\n\nThe proposed trial: Fourteen nights, after the screen is installed, recording limits are confirmed and all five participants consent\n\nCheck-ins:\n- Before arrival: retreat and guest-policy walkthrough\n- Day 3: separate check-in with each resident and each spirit\n- Day 7: review dinners and visitor notice\n- Day 14: explicit choice about continuing\n\nWhat a comfortable trial would look like:\n- At least three planned shared evenings actually happen in each week without pressure to attend\n- Tavi's retreat stays private\n- Cress can leave a meal before it ends\n- Nobody assumes the spirits are available for housework, mending or mediation\n\nStopping early: Any one participant may pause the trial; the other four do not vote to override them\n\nLeaving plan: An interim room with separate quiet space and optional communal dinners.\n\nCurrent destination status: Requested; awaiting confirmation\n\nResponsible coordinator: Placement desk role, to be named before trial\n\nHousehold responsibilities: Clear the agreed route, return personal objects, cancel introductions and help arrange a calm departure without a compulsory farewell dinner\n\nIf the next place is unavailable: No trial begins until the separate retreat and interim destination are both actually available\n\nChoosing the region: Each spirit chooses the destination and region before the move is arranged.\n\nHA-H-2102. Application received; introductions pending. No residents assigned. Volunteer home. Every adult may decline before or during a trial.",
+    "features": [
+      "Four shared dinners",
+      "Creative evenings",
+      "Protected private rooms",
+      "Chicago, Illinois",
+      "A ground-floor reading alcove with a screen and a separate route to the kitchen; the screen must be installed before Tavi's trial",
+      "No permanent cameras. Ellis sometimes records craft demonstrations using a phone. Those recordings must remain in Ellis's closed private room, with no resident spirit present or audible, and no incidental background recording."
+    ],
+    "preferences": {
+      "templateId": "household_north_window",
+      "departedCapacity": 2,
+      "householdConsent": "yes",
+      "pets": "none",
+      "quietHours": {
+        "start": 23,
+        "end": 8
+      },
+      "privateRetreat": true,
+      "stepFreeAccess": null,
+      "hasGarden": null,
+      "activityPreference": "lively",
+      "companyPreference": "high",
+      "nightPresence": "welcome",
+      "relocationWillingness": "yes",
+      "recordingPolicy": null,
+      "sharedEvenings": 4,
+      "respectBoundaries": "yes",
+      "welcomedInterests": [
+        "shared meals",
+        "craft",
+        "stories",
+        "cooking"
+      ]
+    },
+    "introductionQuestions": [
+      {
+        "id": "question_confirmed_exit",
+        "question": "Has the interim destination and responsible coordinator actually confirmed the welcome?",
+        "whyItMatters": "A potential destination is not a confirmed exit. The receiving person or placement desk must agree before the trial.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_north_retreat",
+        "question": "Has the protected retreat screen been installed and its privacy checked with each proposed spirit?",
+        "whyItMatters": "Verify traffic, cleaning access, and camera sightlines with the people who would use the retreat.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "question_north_recording",
+        "question": "Has Ellis independently agreed to the recording arrangements and every spirit’s stated limits?",
+        "whyItMatters": "A group statement cannot replace an individual recording agreement.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "question_north_guests",
+        "question": "Has everyone agreed to advance notice and one introduced adult guest at a time during the trial?",
+        "whyItMatters": "All housemates remain free to decline interaction.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-3"
+      },
+      {
+        "id": "question_household_north_window_adult_approval_1",
+        "question": "Has Dev Malik independently approved this exact trial, privacy, recording, and leaving plan?",
+        "whyItMatters": "Willing to meet; trial consent not yet given. A household response does not replace Dev Malik's own decision. Any adult may decline or withdraw without a vote.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-4"
+      },
+      {
+        "id": "question_household_north_window_adult_approval_2",
+        "question": "Has Ruth Salcedo independently approved this exact trial, privacy, recording, and leaving plan?",
+        "whyItMatters": "Willing to meet; trial consent not yet given. A household response does not replace Ruth Salcedo's own decision. Any adult may decline or withdraw without a vote.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-5"
+      },
+      {
+        "id": "question_household_north_window_adult_approval_3",
+        "question": "Has Ellis Rowe independently approved this exact trial, privacy, recording, and leaving plan?",
+        "whyItMatters": "Willing to meet; trial consent not yet given. A household response does not replace Ellis Rowe's own decision. Any adult may decline or withdraw without a vote.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_north_window"
+        ],
+        "_key": "entry-6"
+      }
+    ],
+    "_id": "ha-home-household_north_window",
+    "_type": "hearthHome"
+  },
+  {
+    "id": "household_noor",
+    "name": "Noor’s courtyard apartment",
+    "subtitle": "A different sort of daily rhythm",
+    "summary": "A night worker, a private courtyard and a cat with an exacting interview process. Noor wants company in the afternoons, silence through the morning and no rescue narrative attached to living alone.",
+    "story": "Household: One-adult household. Sacramento, California.\n\nI like my life. I would like to share a few hours of it, not explain why I live alone.\n\nNoor Hale, 39, they/them. Sole adult resident. Overnight library digitization technician; works 21:00 to 05:00 Monday through Thursday. Wants low-pressure afternoon company and a clear agreement about daytime sleep. Willing to meet; trial consent not yet given.\n\nFig, 9, Cat. An adult cat who prefers a high shelf and chooses when to approach. Unknown; no spirit-animal compatibility should be assumed.\n\nWhy now: Noor: My work hours in Sacramento make it easy to go several days seeing people mostly as messages. I do not mind that all the time. When the Overlap housing notices reached us, I realized that I could offer company in the part of the day when I am awake. I want an arrangement that fits my actual schedule, not a plan to become a different person.\n\nWhat company means: Sit outside while I eat late breakfast. Tell me something you noticed. Or read while I repot things. I can offer attention for an hour more reliably than I can offer an elaborate evening.\n\nStill thinking through: I assumed the pet camera was too ordinary to mention, then realized a housemate might experience it differently. I do want to keep it. I am not asking someone to become comfortable with recording in order to make this match work.\n\nPrevious experience: No previous spirit placement. Noor has lived with adult housemates before and found clearly stated sleep hours more useful than asking people to be considerate in general.\n\nWhat they can offer: A steady afternoon rhythm, a private planted courtyard, honest answers and plenty of parallel quiet time.\n\nWhat they cannot offer: Shared dinners three times a week, a camera-free front room, constant contact while away or a job caring for Fig.\n\nA question for the spirits: Can we try a very ordinary afternoon before deciding whether we are good company?\n\nThe home: Owned ground-floor apartment converted from a former corner shop\n\nPermission to host: Noor owns the apartment and its private courtyard. There are no other permanent residents.\n\nShared spaces:\n- Front sitting room\n- Kitchen\n- Private paved courtyard with raised planters\n\nPrivate spaces:\n- Bedroom\n- Bathroom\n- Locked work-equipment cupboard\n\nA place to retreat: A small reading recess off the sitting room, with an unobstructed route out\n\nSound and light: Bedroom has blackout curtains. Quiet is essential from 06:30 to 13:30; no light or audible manifestations may reach it. The courtyard is available after 13:30.\n\nRecording devices: A continuously recording indoor pet camera covers the front sitting room and the entrance route to the courtyard. Noor wants to keep it on while away and has not offered to relocate or disable it.\n\nGetting around: No steps between shared spaces and courtyard. The cat has a separate high retreat, and must always have an unobstructed way out of an introduction.\n\nOrdinary imperfections: The planters contain more herbs than Noor cooks with. A handwritten 'NOT A SHOP' card is still occasionally needed at the front window. The best chair officially belongs to nobody and functionally belongs to Fig.\n\nLocation: Sacramento, California\n\nRegion: West / Northern California\n\nWaking hours: Around 13:30 on workdays; roughly similar on days off\n\nSleep and quiet: Strict quiet from 06:30 to 13:30 every day, plus no sound audible to neighbors overnight\n\nShared meals: No reliable evening meals; late breakfast around 14:00 and a light meal around 19:00, often alone\n\nReliable company:\n- Afternoon company between 14:00 and 16:00\n- Courtyard time before leaving for work\n- One optional late conversation on a night off\n\nTime at home: Spirits may be in agreed shared spaces while Noor is at work, subject to quiet and recording consent; they are not responsible for the home or cat\n\nVisitors: An adult friend visits most Sundays; no visitors are invited to observe a spirit\n\nTravel: Rarely overnight without arranging pet care separately; spirits will never be the pet-care plan\n\nFirm boundaries:\n- No waking Noor during 06:30 to 13:30 sleep hours\n- No manifestation in bedroom or bathroom\n- No interaction with work equipment\n- No pet care, monitoring or guard duties\n- Fig must have a route away and no forced interaction\n- The indoor pet camera remains active in the described coverage area\n\nOnly with individual agreement:\n- Quiet conversation during agreed awake windows\n- A still visible outline in the courtyard after 13:30\n- Movement of the spirit's own labeled notebook or token\n\nNot welcome:\n- Scents, damp, cold spots or flashing light\n- Nighttime conversation audible to neighbors\n- Touching or startling Fig\n- Treating the camera's presence as implied consent to being recorded\n\nRoom to negotiate: Afternoon meeting times and the location of personal tokens; the camera is a current non-negotiable and cannot be scored away\n\nStill unanswered: Will each proposed spirit specifically accept the camera's scope, recording purpose and retained footage? Bram and Sera have not answered. Their lack of a listed camera prohibition is not consent.\n\nThe proposed trial: A daytime introduction first. A seven-night residential trial is only possible after recording consent, pet compatibility and relocation arrangements are confirmed.\n\nCheck-ins:\n- Before any visible manifestation: separate introduction plan for Fig with an easy retreat\n- Before trial: each spirit answers the camera question independently\n- Day 2: sleep and pet-welfare check\n- Day 7: explicit stop, extension or revision decision\n\nWhat a comfortable trial would look like:\n- Noor sleeps normally\n- Fig can use the home and retreat comfortably\n- Both spirits receive the company actually promised\n- Noor can leave for work without assigning responsibility to either spirit\n\nStopping early: Pause any visible manifestation immediately if Fig appears distressed or cannot leave; stop the residential trial if required privacy or quiet cannot be maintained\n\nLeaving plan: An interim room with outdoor access for Bram, and a named next destination and coordinator for Sera.\n\nCurrent destination status: Requested; awaiting confirmation\n\nResponsible coordinator: Placement desk role, to be named before trial\n\nHousehold responsibilities: Return personal objects, arrange a transition during Noor's awake hours and avoid a last-minute departure into an unspecified waiting place\n\nIf the next place is unavailable: If no acceptable interim destination is confirmed, remain at the introduction stage; do not start a trial hoping to solve it later\n\nChoosing the region: Each spirit chooses the destination and region before the move is arranged.\n\nHA-H-2103. Application received; introductions pending. No residents assigned. Volunteer home. Every adult may decline before or during a trial.",
+    "features": [
+      "Afternoon company",
+      "Night-shift routine",
+      "Pet introduction needed",
+      "Sacramento, California",
+      "A small reading recess off the sitting room, with an unobstructed route out",
+      "A continuously recording indoor pet camera covers the front sitting room and the entrance route to the courtyard. Noor wants to keep it on while away and has not offered to relocate or disable it."
+    ],
+    "preferences": {
+      "templateId": "household_noor",
+      "departedCapacity": 2,
+      "householdConsent": "yes",
+      "pets": "cats",
+      "quietHours": {
+        "start": 6.5,
+        "end": 13.5
+      },
+      "privateRetreat": true,
+      "stepFreeAccess": true,
+      "hasGarden": true,
+      "activityPreference": "quiet",
+      "companyPreference": "low",
+      "nightPresence": "welcome",
+      "relocationWillingness": "yes",
+      "recordingPolicy": "active",
+      "sharedEvenings": 0,
+      "respectBoundaries": "yes",
+      "welcomedInterests": [
+        "gardening",
+        "maps",
+        "quiet company"
+      ]
+    },
+    "introductionQuestions": [
+      {
+        "id": "question_confirmed_exit",
+        "question": "Has the interim destination and responsible coordinator actually confirmed the welcome?",
+        "whyItMatters": "A potential destination is not a confirmed exit. The receiving person or placement desk must agree before the trial.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_noor"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_noor_pet",
+        "question": "Has an observed, low-pressure introduction shown that the cat can freely keep a comfortable distance?",
+        "whyItMatters": "A preference score does not establish pet comfort.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_noor"
+        ],
+        "_key": "entry-1"
+      },
+      {
+        "id": "question_noor_courtyard",
+        "question": "Has planted outdoor access and household and property permission been confirmed?",
+        "whyItMatters": "The offered courtyard must be a planted and permitted open-air space for the proposed residents.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_noor"
+        ],
+        "_key": "entry-2"
+      },
+      {
+        "id": "question_household_noor_adult_approval_1",
+        "question": "Has Noor Hale independently approved this exact trial, privacy, recording, and leaving plan?",
+        "whyItMatters": "Willing to meet; trial consent not yet given. A household response does not replace Noor Hale's own decision. Any adult may decline or withdraw without a vote.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_noor"
+        ],
+        "_key": "entry-3"
+      }
+    ],
+    "_id": "ha-home-household_noor",
+    "_type": "hearthHome"
+  },
+  {
+    "id": "household_robin_esme",
+    "name": "Robin & Esme’s small-garden house",
+    "subtitle": "One adult, one child, room for a family",
+    "summary": "A fictional single-parent household with an eleven-year-old, a quiet back room and space for up to three departed residents.",
+    "story": "Robin lives with eleven-year-old Esme in a modest house near the library. There are school mornings, a shared evening meal and weekends when the model railway stays out on the table. Robin is the sole living adult and remains responsible for Esme’s care. Esme’s comfort is discussed directly, with no expectation that a departed child become a friend on demand. The household offers up to three departed places, a separate quiet family room and time for two or three early-evening invitations. The Aster family is one possible introduction, subject to everyone’s own decisions and the coordinator’s care review.",
+    "features": [
+      "Single adult and an eleven-year-old",
+      "Up to three departed residents",
+      "Separate quiet family room",
+      "Small open-air garden",
+      "No recording in presence areas"
+    ],
+    "preferences": {
+      "templateId": "household_robin_esme",
+      "departedCapacity": 3,
+      "householdConsent": "yes",
+      "pets": "none",
+      "quietHours": {
+        "start": 21,
+        "end": 7
+      },
+      "privateRetreat": true,
+      "stepFreeAccess": true,
+      "hasGarden": true,
+      "activityPreference": "balanced",
+      "companyPreference": "medium",
+      "nightPresence": "welcome",
+      "relocationWillingness": "yes",
+      "welcomedInterests": [
+        "maps",
+        "books",
+        "stories",
+        "craft",
+        "cooking"
+      ],
+      "recordingPolicy": "none",
+      "sharedEvenings": 3,
+      "respectBoundaries": "yes"
+    },
+    "introductionQuestions": [
+      {
+        "id": "question_robin_esme_living_child",
+        "question": "Have Robin and the coordinator heard Esme’s own comfort and concerns, agreed privacy and a stop signal, and confirmed that friendship with any departed child is optional?",
+        "whyItMatters": "The sole living adult’s agreement does not speak for the child’s experience. Neither family provides childcare or companionship as payment for the welcome.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_robin_esme"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_robin_esme_retreat",
+        "question": "Has everyone seen the retreat and agreed who may enter, how the two families keep their own care responsibilities, and how either can end a meeting?",
+        "whyItMatters": "A quiet room and clear responsibilities need to work in practice before any trial.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_robin_esme",
+          "boundary:boundary_aster_private_retreat"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "_id": "ha-home-household_robin_esme",
+    "_type": "hearthHome"
+  },
+  {
+    "id": "household_lantern_students",
+    "name": "The Lantern House student share",
+    "subtitle": "Four adult students, a settled shared home",
+    "summary": "Four fictional adult students with different timetables, a spare retreat and an agreed welcome for up to three departed residents.",
+    "story": "Amal, Bea, Finn and Jo are adult students sharing a year-round house. Their fridge calendar includes shifts, exams, film nights and the evenings when nobody wants to talk. They have agreed space for up to three departed residents and a quiet room that will stay a retreat rather than become a study annex. A daytime craft table and three modest early-evening invitations offer ordinary company. Every roommate agrees to the proposal in principle; a trial still needs individual conversations, a named coordinator and coverage through holidays. If a departed child joins with their guardian, the parents retain care responsibilities and the students are not substitute carers.",
+    "features": [
+      "Four adult student roommates",
+      "Up to three departed residents",
+      "Year-round occupancy plan",
+      "Protected retreat and step-free common room",
+      "Film nights with recording switched off"
+    ],
+    "preferences": {
+      "templateId": "household_lantern_students",
+      "departedCapacity": 3,
+      "householdConsent": "yes",
+      "pets": "none",
+      "quietHours": {
+        "start": 22,
+        "end": 7
+      },
+      "privateRetreat": true,
+      "stepFreeAccess": true,
+      "hasGarden": true,
+      "activityPreference": "balanced",
+      "companyPreference": "medium",
+      "nightPresence": "welcome",
+      "relocationWillingness": "yes",
+      "welcomedInterests": [
+        "books",
+        "tea",
+        "films",
+        "stories",
+        "craft",
+        "maps",
+        "cooking"
+      ],
+      "recordingPolicy": "none",
+      "sharedEvenings": 3,
+      "respectBoundaries": "yes"
+    },
+    "introductionQuestions": [
+      {
+        "id": "question_lantern_students_all_residents",
+        "question": "Has each of the four adult roommates freely agreed to the particular group, the protected retreat, guest rules and the camera-free presence areas?",
+        "whyItMatters": "One roommate cannot speak for everyone; a shared lease is not collective permission for a stay.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_lantern_students"
+        ],
+        "_key": "entry-0"
+      },
+      {
+        "id": "question_lantern_students_holidays",
+        "question": "Have the household and coordinator confirmed exam and holiday routines, continuing occupancy, care responsibilities if relevant, and an accepted interim destination?",
+        "whyItMatters": "A promising term-time routine does not establish continuity through absences, and the students are not being recruited as carers.",
+        "requiredForTrial": true,
+        "sourceRefs": [
+          "home:household_lantern_students"
+        ],
+        "_key": "entry-1"
+      }
+    ],
+    "_id": "ha-home-household_lantern_students",
+    "_type": "hearthHome"
+  },
+  {
+    "id": "history_iona_vale",
+    "title": "Iona Vale: a life in fragments",
+    "era": "1826-1893",
+    "summary": "During the Overlap, Iona was first noticed in a room that no longer contained a clock. Being visible again has made her less certain that a home must be earned through work. She still offers repairs too quickly, then resents being taken at her word. Her review officer has asked her to practice saying, “I would rather sit down.” She says the exercise is going adequately.",
+    "events": [
+      {
+        "date": "1867",
+        "title": "Fictional in-world record: Shop account-book excerpt",
+        "detail": "“Nell's kitchen clock: cleaned, no charge. Nell's second request that I leave the hands alone: received.”\n\nThe book records years of shared expenses and everyday requests. It does not settle how Iona and Nell described their relationship.\n\nRecord HV-I01. Clear.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "1874",
+        "title": "Fictional in-world record: Letter attributed to Bess Vale",
+        "detail": "“She says she cannot come before six. This means seven unless somebody mentions gears, in which case send breakfast.”\n\nIona recognizes the joke, but not the handwriting. Bess’s authorship remains unconfirmed.\n\nRecord HV-I02. Attribution disputed.",
+        "_key": "entry-1"
+      }
+    ],
+    "sourceNote": "Fictional spirit dossier. These labeled in-world excerpts are part of the story. Disputed attribution remains unresolved; an old record does not override a person's stated identity or present wishes.",
+    "_id": "ha-history-history_iona_vale",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_orin_pell",
+    "title": "Orin Pell: a life in fragments",
+    "era": "1904-1981",
+    "summary": "Before the Overlap, Orin could sometimes perceive the shape of the old projection booth but not the people in the room that replaced it. Now people can see him. Being visible is an adjustment; being recorded is a limit. He has firmly refused an applicant who wanted to make a channel about their resident ghost. His answer was brief and has not changed.",
+    "events": [
+      {
+        "date": "1949",
+        "title": "Fictional in-world record: Projection booth notebook",
+        "detail": "“Reel three splice checked. Front row complained of rain. Building, not picture. Mina says bring bread.”\n\nBread reminders appear beside the maintenance notes often enough to suggest that Mina had reason to be specific.\n\nRecord HV-O01. Clear.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "1969",
+        "title": "Fictional in-world record: Unsigned retirement card",
+        "detail": "“You taught us everything except how to persuade you to go home. We eventually learned that ourselves.”\n\nOrin dates his retirement to 1968. The card may mark a later farewell or one of his several returns to work.\n\nRecord HV-O02. Date unresolved.",
+        "_key": "entry-1"
+      }
+    ],
+    "sourceNote": "Fictional spirit dossier. These labeled in-world excerpts are part of the story. Disputed attribution remains unresolved; an old record does not override a person's stated identity or present wishes.",
+    "_id": "ha-history-history_orin_pell",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_cress_morrow",
+    "title": "Cressida “Cress” Morrow: a life in fragments",
+    "era": "1868-1945",
+    "summary": "When the Overlap made her visible, Cress was found standing beside a loading bay where her dining room had once been. Her first residential introduction went badly when a household described her as a resident grandmother before meeting her. She likes younger adults and can be affectionate. Neither quality makes her a replacement relative. She would prefer to begin with names and learn what relationship follows.",
+    "events": [
+      {
+        "date": "1907",
+        "title": "Fictional in-world record: Supper-room menu reverse",
+        "detail": "“Late plate kept if told. No account discussed in front of company. Rain is not a reservation.”\n\nThe reverse has been revised several times. This is the last legible version.\n\nRecord HV-C01. Clear.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "1932",
+        "title": "Fictional in-world record: Household letter from Len Morrow",
+        "detail": "“I did enjoy the meal. I even enjoyed the people. I would enjoy them longer if there were fewer of them.”\n\nCress supplied the letter herself. She thought a prospective housemate ought to see it.\n\nRecord HV-C02. Self-supplied.",
+        "_key": "entry-1"
+      }
+    ],
+    "sourceNote": "Fictional spirit dossier. These labeled in-world excerpts are part of the story. Disputed attribution remains unresolved; an old record does not override a person's stated identity or present wishes.",
+    "_id": "ha-history-history_cress_morrow",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_tavi_mercer",
+    "title": "Tavi Mercer: a life in fragments",
+    "era": "1911-1996",
+    "summary": "The Overlap made Tavi visible in an empty upstairs room; it did not restore their workshop or give its new occupants permission to photograph them. They have spent enough of both life and afterlife being mistaken for part of a room. They now ask to be introduced to invited guests if they plan to join them, and left entirely alone if they do not. Being discreet is a preference; being concealed for another person’s comfort is not.",
+    "events": [
+      {
+        "date": "1956",
+        "title": "Fictional in-world record: Alterations ledger",
+        "detail": "“Mrs. Linn: pockets added as requested. Husband's objection noted. Husband not wearing dress.”\n\nTavi underlined the last sentence twice.\n\nRecord HV-T01. Clear.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "1971",
+        "title": "Fictional in-world record: Note attached to a blue stage coat",
+        "detail": "“Jo says the pockets were Jo's idea. Tavi says ideas do not sew themselves. Both signed below.”\n\nThe note has two signatures. Neither person conceded the point.\n\nRecord HV-T02. Jointly disputed.",
+        "_key": "entry-1"
+      }
+    ],
+    "sourceNote": "Fictional spirit dossier. These labeled in-world excerpts are part of the story. Disputed attribution remains unresolved; an old record does not override a person's stated identity or present wishes.",
+    "_id": "ha-history-history_tavi_mercer",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_bram_kestrel",
+    "title": "Bram Kestrel: a life in fragments",
+    "era": "1854-1928",
+    "summary": "The Overlap found Bram beside a canal path, clearly visible for the first time to people walking past. He has found indoor life more tiring than modern noise. A plant on a windowsill is pleasant, but it is not a substitute for time in an open-air planted space. He will happily try a small courtyard. He will not be happy in a home with no outdoor space, however lovely the living room.",
+    "events": [
+      {
+        "date": "1898",
+        "title": "Fictional in-world record: Lockkeeper's weather book",
+        "detail": "“Rain certain. Revised at noon. Fine. Sweet peas doing better than predictions.”\n\nThe forecast is crossed out in the same ink as the revised forecast.\n\nRecord HV-B01. Clear.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "1909",
+        "title": "Fictional in-world record: Seed-list margin in Etta's hand",
+        "detail": "“Six rows beans, two carrots, three peas. Bram's flowers to negotiate separately and in daylight.”\n\nThe list gives Etta considerably more of the garden than the tenancy notes do.\n\nRecord HV-B02. Clear.",
+        "_key": "entry-1"
+      }
+    ],
+    "sourceNote": "Fictional spirit dossier. These labeled in-world excerpts are part of the story. Disputed attribution remains unresolved; an old record does not override a person's stated identity or present wishes.",
+    "_id": "ha-history-history_bram_kestrel",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_sera_dene",
+    "title": "Sera Dene: a life in fragments",
+    "era": "1889-1960",
+    "summary": "After the Overlap, Sera’s first temporary lodging ended with two people each assuming the other had arranged her next place. Nothing dangerous happened, but the uncertainty was exhausting. She now requires a confirmed departure plan before accepting a new arrival. She is not asking a household to promise it will work. She is asking it to make leaving possible. At her mandatory review, she asked who was responsible for the word “temporary.” The officer wrote it down.",
+    "events": [
+      {
+        "date": "1931",
+        "title": "Fictional in-world record: Drafting-sheet correction slip",
+        "detail": "“Footpath present in the field. Absence from the form does not appear to prevent its use.”\n\nThe correction was accepted on the next sheet. The footpath acquired a name much later.\n\nRecord HV-S01. Clear.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "1954",
+        "title": "Fictional in-world record: Postcard to Anwen",
+        "detail": "“We took the long way. Kit says there is no short way to a day off. I have objections but no improved proposal.”\n\nSera remembers sending a similar card in 1952. The postmark is partly unreadable, so the date remains approximate.\n\nRecord HV-S02. Date uncertain.",
+        "_key": "entry-1"
+      }
+    ],
+    "sourceNote": "Fictional spirit dossier. These labeled in-world excerpts are part of the story. Disputed attribution remains unresolved; an old record does not override a person's stated identity or present wishes.",
+    "_id": "ha-history-history_sera_dene",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_mara_aster",
+    "title": "Mara’s library calendar",
+    "era": "1977–2015",
+    "summary": "A fictional life in public access work, parenthood and learning to leave room in the plan.",
+    "events": [
+      {
+        "date": "2001",
+        "title": "The delivery shelf",
+        "detail": "Mara joined Bellwether’s library and listened before deciding what a home delivery service should offer.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "2006",
+        "title": "Kit arrives",
+        "detail": "Mara and Leon became parents, sharing care and discovering that a timetable could contain a surprise.",
+        "_key": "entry-1"
+      },
+      {
+        "date": "After the Overlap",
+        "title": "A family application",
+        "detail": "Mara’s guardian relationship with Kit was documented; introductions and placement decisions remain separate.",
+        "_key": "entry-2"
+      }
+    ],
+    "sourceNote": "Original fictional example written for Hearthafter; Bellwether and this family are invented, not archival or genealogical records.",
+    "_id": "ha-history-history_mara_aster",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_leon_aster",
+    "title": "Leon’s useful recipe box",
+    "era": "1974–2015",
+    "summary": "A fictional community-centre worker and parent who enjoys making things without always being on duty.",
+    "events": [
+      {
+        "date": "1999",
+        "title": "A table for everyone",
+        "detail": "Leon helped the community centre organise accessible suppers, including clear invitations for people who preferred quiet company.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "2013",
+        "title": "The cardboard cinema",
+        "detail": "He and Kit gave their model bus station a removable cinema roof. Mara supplied route numbers and a place to store it.",
+        "_key": "entry-1"
+      },
+      {
+        "date": "After the Overlap",
+        "title": "A place to sit down",
+        "detail": "Leon applied with Mara and Kit while making clear that cooking and entertaining were optional interests.",
+        "_key": "entry-2"
+      }
+    ],
+    "sourceNote": "Original fictional example written for Hearthafter; no real person, institution or family history is represented.",
+    "_id": "ha-history-history_leon_aster",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "history_kit_aster",
+    "title": "Kit’s town with a secret park",
+    "era": "2006–2015",
+    "summary": "A fictional nine-year-old’s maps, unfinished models and continuing family relationships.",
+    "events": [
+      {
+        "date": "2012",
+        "title": "A drawer of maps",
+        "detail": "Kit discovered the library map drawer and began drawing places where people could stop and rest.",
+        "_key": "entry-0"
+      },
+      {
+        "date": "2014",
+        "title": "A model can stay unfinished",
+        "detail": "Their family made a protected shelf for the cardboard town, without turning each visit into a presentation.",
+        "_key": "entry-1"
+      },
+      {
+        "date": "After the Overlap",
+        "title": "A say in the welcome",
+        "detail": "Kit asked to meet a household with their parents. Mara’s guardian care agreement and Kit’s age-appropriate assent remain required before any trial.",
+        "_key": "entry-2"
+      }
+    ],
+    "sourceNote": "Original fictional child and family. This record supplies story context, not evidence about a real child or a substitute for a reviewed care plan.",
+    "_id": "ha-history-history_kit_aster",
+    "_type": "hearthHistory"
+  },
+  {
+    "id": "trait_precision",
+    "label": "Thoughtful precision",
+    "description": "Iona appreciates exact arrangements while leaving room for a small mistake.",
+    "complements": [
+      "trait_imperfect_endings"
+    ],
+    "_id": "ha-trait-trait_precision",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_imperfect_endings",
+    "label": "Room for imperfect endings",
+    "description": "Orin enjoys imperfect films and does not require every ending to explain itself.",
+    "complements": [
+      "trait_precision"
+    ],
+    "_id": "ha-trait-trait_imperfect_endings",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_warm_directness",
+    "label": "Warm directness",
+    "description": "Cress makes room for company and asks for an honest account of the household routine.",
+    "complements": [
+      "trait_deliberate_sociability"
+    ],
+    "_id": "ha-trait-trait_warm_directness",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_deliberate_sociability",
+    "label": "Deliberate sociability",
+    "description": "Tavi enjoys lively company when a private retreat remains available.",
+    "complements": [
+      "trait_warm_directness"
+    ],
+    "_id": "ha-trait-trait_deliberate_sociability",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_companionable_silence",
+    "label": "Companionable silence",
+    "description": "Bram enjoys ordinary tasks and unhurried company without a performance.",
+    "complements": [
+      "trait_clear_exits"
+    ],
+    "_id": "ha-trait-trait_companionable_silence",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_clear_exits",
+    "label": "Clear, voluntary plans",
+    "description": "Sera values company with a confirmed way onward and no promise of forever.",
+    "complements": [
+      "trait_companionable_silence"
+    ],
+    "_id": "ha-trait-trait_clear_exits",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_aster_patient_structure",
+    "label": "Patient structure",
+    "description": "Mara offers a clear plan and allows other people time to change their minds.",
+    "complements": [
+      "trait_aster_resourceful_play"
+    ],
+    "_id": "ha-trait-trait_aster_patient_structure",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_aster_resourceful_play",
+    "label": "Resourceful play",
+    "description": "Leon can turn a small practical setback into an optional experiment without making anyone join in.",
+    "complements": [
+      "trait_aster_patient_structure",
+      "trait_aster_open_curiosity"
+    ],
+    "_id": "ha-trait-trait_aster_resourceful_play",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "trait_aster_open_curiosity",
+    "label": "Open curiosity",
+    "description": "Kit explores possibilities through stories and models, with time to answer and freedom to stop.",
+    "complements": [
+      "trait_aster_resourceful_play"
+    ],
+    "_id": "ha-trait-trait_aster_open_curiosity",
+    "_type": "hearthTrait"
+  },
+  {
+    "id": "boundary_iona_vale_no_required_domestic_labor",
+    "label": "no required domestic labor",
+    "description": "No household may make repairs, cleaning, childcare, monitoring or entertaining a condition of her stay",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_iona_vale_no_required_domestic_labor",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_iona_vale_predictable_quiet_plan",
+    "label": "predictable quiet plan",
+    "description": "The household must agree to written quiet hours and a way to communicate schedule changes",
+    "kind": "hard",
+    "rule": "defined-quiet-hours",
+    "_id": "ha-boundary-boundary_iona_vale_predictable_quiet_plan",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_orin_pell_camera_free_presence",
+    "label": "camera free presence",
+    "description": "No cameras, video doorbells with interior sightlines, live streams or audio recording in his agreed manifestation area",
+    "kind": "hard",
+    "rule": "camera-free",
+    "_id": "ha-boundary-boundary_orin_pell_camera_free_presence",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_orin_pell_no_exhibition",
+    "label": "no exhibition",
+    "description": "No admission fees, promotional appearances, content obligations or demonstrations for visitors",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_orin_pell_no_exhibition",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_cress_morrow_three_shared_evenings",
+    "label": "three shared evenings",
+    "description": "An honestly sustainable plan for at least three shared evening meals or equivalent evening gatherings per week; attendance is invited, never compulsory",
+    "kind": "hard",
+    "rule": "shared-evenings",
+    "minimum": 3,
+    "_id": "ha-boundary-boundary_cress_morrow_three_shared_evenings",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_cress_morrow_no_surrogate_role",
+    "label": "no surrogate role",
+    "description": "No expectation that she replace a family member or provide cooking, care, supervision or emotional support on demand",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_cress_morrow_no_surrogate_role",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_tavi_mercer_protected_retreat",
+    "label": "protected retreat",
+    "description": "A real private retreat must exist before the trial, with its boundary understood by guests and residents",
+    "kind": "hard",
+    "rule": "private-retreat",
+    "_id": "ha-boundary-boundary_tavi_mercer_protected_retreat",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_tavi_mercer_identity_respected",
+    "label": "identity respected",
+    "description": "Use their stated name and pronouns; no demands for explanations, archival exposure or a secret identity for visitors",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_tavi_mercer_identity_respected",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_bram_kestrel_usable_outdoor_greenery",
+    "label": "usable outdoor greenery",
+    "description": "Real access to a planted open-air space, with household and property permission confirmed; a sealed window and a houseplant do not qualify",
+    "kind": "hard",
+    "rule": "garden",
+    "_id": "ha-boundary-boundary_bram_kestrel_usable_outdoor_greenery",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_bram_kestrel_no_plant_service",
+    "label": "no plant service",
+    "description": "No promises of plant growth, weather control, garden maintenance or free labor",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_bram_kestrel_no_plant_service",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_sera_dene_confirmed_exit_destination",
+    "label": "confirmed exit destination",
+    "description": "A named, confirmed interim destination and responsible coordinator before any trial begins",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_sera_dene_confirmed_exit_destination",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_sera_dene_no_tracking_expectation",
+    "label": "no tracking expectation",
+    "description": "No surveillance, finding people, retrieving secrets or access to private information",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_sera_dene_no_tracking_expectation",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_aster_private_retreat",
+    "label": "A protected family retreat",
+    "description": "A real private retreat must be available before a trial, with entry agreed and each resident free to ask for quiet.",
+    "kind": "hard",
+    "rule": "private-retreat",
+    "_id": "ha-boundary-boundary_aster_private_retreat",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_aster_camera_free",
+    "label": "An unrecorded welcome",
+    "description": "No cameras, audio recordings, streams or demonstrations in agreed presence areas; a craft activity does not permit recording a spirit.",
+    "kind": "hard",
+    "rule": "camera-free",
+    "_id": "ha-boundary-boundary_aster_camera_free",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_aster_quiet_plan",
+    "label": "Predictable quiet hours",
+    "description": "Record a daily quiet window and agree how changes, visitors and noisy devices will be communicated in advance.",
+    "kind": "hard",
+    "rule": "defined-quiet-hours",
+    "_id": "ha-boundary-boundary_aster_quiet_plan",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_aster_own_choices",
+    "label": "Care and company without obligations",
+    "description": "Respect each person’s stated identity and refusal. No unpaid work, assigned friendships, substitute-parent roles, childcare for the living household or performances are conditions of welcome. Guardian care and child assent require their own reviewed agreement.",
+    "kind": "hard",
+    "rule": "respect-boundaries",
+    "_id": "ha-boundary-boundary_aster_own_choices",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "boundary_aster_two_evenings",
+    "label": "Two sustainable early-evening invitations",
+    "description": "Offer at least two ordinary early-evening gatherings a week, with the freedom to decline on the day.",
+    "kind": "hard",
+    "rule": "shared-evenings",
+    "minimum": 2,
+    "_id": "ha-boundary-boundary_aster_two_evenings",
+    "_type": "hearthBoundary"
+  },
+  {
+    "id": "relationship_1",
+    "spiritIds": [
+      "spirit_iona_vale",
+      "spirit_orin_pell"
+    ],
+    "status": "unacquainted",
+    "title": "Different hours. Shared attention.",
+    "description": "The precision-minded clock repairer and the improvising projectionist both understand that a tiny adjustment can change how a whole evening feels. Their different hours could leave room for one another.\n\nBoth value careful attention and dislike becoming household attractions. Each can enjoy quiet craft or art without being asked to perform a service. They have not yet established a friendship.\n\nA question still to ask: do repetitive sounds bother Orin or Iona? Iona has not offered a ticking manifestation, so any sound would need its own agreement.",
+    "sourceRefs": [
+      "spirit:spirit_iona_vale",
+      "spirit:spirit_orin_pell",
+      "trait_precision",
+      "trait_imperfect_endings"
+    ],
+    "spiritRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_iona_vale",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_orin_pell",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-pair-relationship_1",
+    "_type": "hearthPairRelationship"
+  },
+  {
+    "id": "relationship_2",
+    "spiritIds": [
+      "spirit_cress_morrow",
+      "spirit_tavi_mercer"
+    ],
+    "status": "unacquainted",
+    "title": "A full table, with room to leave it.",
+    "description": "Cress enjoys a full table, while Tavi values the freedom to come and go. Both care about making welcome optional.\n\nTavi states limits plainly, and Cress has agreed not to pursue someone who leaves the company. Their applications suggest that hospitality and solitude could support each other.\n\nA question still to ask: would Cress like a direct 'quiet now' signal, or would either prefer the placement desk to handle the first check-in?",
+    "sourceRefs": [
+      "spirit:spirit_cress_morrow",
+      "spirit:spirit_tavi_mercer",
+      "trait_warm_directness",
+      "trait_deliberate_sociability"
+    ],
+    "spiritRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_cress_morrow",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_tavi_mercer",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-pair-relationship_2",
+    "_type": "hearthPairRelationship"
+  },
+  {
+    "id": "relationship_3",
+    "spiritIds": [
+      "spirit_bram_kestrel",
+      "spirit_sera_dene"
+    ],
+    "status": "unacquainted",
+    "title": "An afternoon worth coming home to.",
+    "description": "A gardener and a mapmaker are both interested in what makes a place livable. Bram attends to what grows; Sera notices how people can move through it.\n\nBram knows a place by staying, and Sera by tracing its routes. Both welcome unhurried observation. Sera can ask planning questions without making Bram responsible for the decisions.\n\nA question still to ask: would Bram enjoy Sera's occasional map talk, or prefer separate invitations? Their different interests are a reason to meet, not a promise that they will get along.",
+    "sourceRefs": [
+      "spirit:spirit_bram_kestrel",
+      "spirit:spirit_sera_dene",
+      "trait_companionable_silence",
+      "trait_clear_exits"
+    ],
+    "spiritRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_bram_kestrel",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_sera_dene",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-pair-relationship_3",
+    "_type": "hearthPairRelationship"
+  },
+  {
+    "id": "relationship_aster_parents",
+    "spiritIds": [
+      "spirit_mara_aster",
+      "spirit_leon_aster"
+    ],
+    "status": "friendly",
+    "title": "A plan, with room for an experiment",
+    "description": "Mara and Leon are partners and Kit’s parents. They share stories and the work of parenting, while Mara prefers a clear timetable and Leon enjoys an optional detour. Both want separate invitations and individual placement decisions.",
+    "sourceRefs": [
+      "history:history_mara_aster",
+      "history:history_leon_aster",
+      "trait:trait_aster_patient_structure",
+      "trait:trait_aster_resourceful_play"
+    ],
+    "spiritRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_mara_aster",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_leon_aster",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-pair-relationship_aster_parents",
+    "_type": "hearthPairRelationship"
+  },
+  {
+    "id": "relationship_aster_mara_kit",
+    "spiritIds": [
+      "spirit_mara_aster",
+      "spirit_kit_aster"
+    ],
+    "status": "friendly",
+    "title": "The map drawer and a patient pause",
+    "description": "Mara is Kit’s documented guardian. They share maps and stories, although Kit’s lively curiosity and Mara’s measured pace need space alongside each other. The relationship does not substitute for Kit’s assent or a reviewed continuing-care plan.",
+    "sourceRefs": [
+      "history:history_mara_aster",
+      "history:history_kit_aster",
+      "spirit:spirit_mara_aster",
+      "spirit:spirit_kit_aster"
+    ],
+    "spiritRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_mara_aster",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_kit_aster",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-pair-relationship_aster_mara_kit",
+    "_type": "hearthPairRelationship"
+  },
+  {
+    "id": "relationship_aster_leon_kit",
+    "spiritIds": [
+      "spirit_leon_aster",
+      "spirit_kit_aster"
+    ],
+    "status": "friendly",
+    "title": "An unfinished town is still a good afternoon",
+    "description": "Leon and Kit enjoy stories and making cardboard places together. Leon is Kit’s parent and participates in the family care plan with Mara, the documented guardian. Shared play is optional, and Kit may stop or choose quiet without explaining.",
+    "sourceRefs": [
+      "history:history_leon_aster",
+      "history:history_kit_aster",
+      "spirit:spirit_mara_aster",
+      "trait:trait_aster_resourceful_play",
+      "trait:trait_aster_open_curiosity"
+    ],
+    "spiritRefs": [
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_leon_aster",
+        "_key": "ref-0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "ha-spirit-spirit_kit_aster",
+        "_key": "ref-1"
+      }
+    ],
+    "_id": "ha-pair-relationship_aster_leon_kit",
+    "_type": "hearthPairRelationship"
+  },
+  {
+    "id": "policy_main",
+    "title": "A promising introduction is not permission to stay",
+    "description": "No departed resident is placed alone: placements include at least two. Peer support reduces isolation; living relationships and an inhabited, maintained home anchor residents. Every resident and every relationship must meet the policy, with separate adult decisions, guardian care agreement and age-appropriate assent for dependent children. Hard boundaries come before preference scores; unknown required facts and unanswered introduction questions block a trial. No one owes work, care, performance, surveillance or a permanent stay.",
+    "hostWeights": {
+      "energy": 30,
+      "company": 25,
+      "interests": 25,
+      "quietHours": 20
+    },
+    "pairWeights": {
+      "complementarity": 40,
+      "sharedInterests": 25,
+      "presence": 20,
+      "relationship": 15
+    },
+    "minimumHostScore": 45,
+    "minimumPairScore": 50,
+    "minimumOverallScore": 60,
+    "_id": "ha-policy-policy_main",
+    "_type": "hearthMatchingPolicy"
+  }
+]

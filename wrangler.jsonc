@@ -1,0 +1,67 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hearthafter",
+  "main": "cloudflare-worker.ts",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "global_fetch_strictly_public"
+  ],
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    {
+      "pattern": "hearthafter.homes",
+      "custom_domain": true,
+      "zone_name": "hearthafter.homes",
+      "previews_enabled": false
+    },
+    {
+      "pattern": "www.hearthafter.homes",
+      "custom_domain": true,
+      "zone_name": "hearthafter.homes",
+      "previews_enabled": false
+    }
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "hearthafter"
+    }
+  ],
+  "limits": {
+    "cpu_ms": 1000
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 0.01
+  },
+  "vars": {
+    "HEARTH_DATA_MODE": "sanity",
+    "NEXT_PUBLIC_SANITY_PROJECT_ID": "o3jy1zm6",
+    "NEXT_PUBLIC_SANITY_DATASET": "production"
+  },
+  "minify": true,
+  "ratelimits": [
+    {
+      "simple": {
+        "limit": 60,
+        "period": 60
+      },
+      "namespace_id": "2026100201",
+      "name": "HEARTH_REGISTRY_RATE_LIMITER"
+    },
+    {
+      "simple": {
+        "limit": 60,
+        "period": 60
+      },
+      "namespace_id": "2026100202",
+      "name": "HEARTH_STAFF_RATE_LIMITER"
+    }
+  ]
+}
