@@ -1,6 +1,6 @@
 # A guided visit to Hearthafter
 
-Choose the [quick video](demo/hearthafter-walkthrough.webm) or follow this interactive route. The [live guide](https://hearthafter.homes/about#deep-dive) keeps the same route close to the application.
+Choose the [quick video](https://hearthafter.homes/about#quick-demo) or follow this interactive route. The [live guide](https://hearthafter.homes/about#deep-dive) keeps the same route close to the application.
 
 ## 1. Meet someone before considering a match
 

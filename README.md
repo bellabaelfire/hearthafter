@@ -12,7 +12,7 @@ This is BellaBaelfire's personal project. Every spirit, household, case, quotati
 
 | Quick demo | Deep dive |
 | --- | --- |
-| [Watch the short walkthrough](docs/demo/hearthafter-walkthrough.webm) | [Follow the interactive route](https://hearthafter.homes/about#deep-dive) |
+| [Watch the short walkthrough](https://hearthafter.homes/about#quick-demo) | [Follow the interactive route](https://hearthafter.homes/about#deep-dive) |
 | See a firm camera boundary, a separate quiet-hours agreement, the verified source-change example and a family review. | Explore the actual linked registry and reproduce the matching and consent decisions in your browser. |
 
 No login is needed for either public route. Published source records come from Sanity; visitor answers and cases stay in the browser. The video shows the public interface and describes an earlier verified authenticated test. It does not show a live staff edit.
@@ -31,7 +31,7 @@ The checked-in Worker maps both `hearthafter.homes` and `www.hearthafter.homes`.
 
 ![Hearthafter: the Office service homepage with a welcoming porch illustration.](docs/demo/home-desktop.png)
 
-[Watch the walkthrough](docs/demo/hearthafter-walkthrough.webm) | [See the family decisions](docs/demo/family-consents.png) | [Explore the linked registry](https://hearthafter.homes/about#behind-the-service)
+[Watch the walkthrough](https://hearthafter.homes/about#quick-demo) | [See the family decisions](docs/demo/family-consents.png) | [Explore the linked registry](https://hearthafter.homes/about#behind-the-service)
 
 The gallery contains recorded examples of the public experience. Use the live application to inspect the current register, matching explanations and in-app introduction.
 
